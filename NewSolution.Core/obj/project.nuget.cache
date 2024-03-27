@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Aj+AvtKV8xKrdeaAwaHmMSIrDZbAIoNyFqKkoLlumg82JysCLJ2f6KmbzgQcmlJbIxxm6/SPHmu6OfczZJlg8Q==",
+  "dgSpecHash": "C4lrgepfKAwSQdkzz2WWU7TPYOHG3GPcRk+9BgoneFlpV4ARKou38z0dqv1KMOZemM+wshbms1lRzfdpW2/wiA==",
   "success": true,
   "projectFilePath": "C:\\Users\\l.ourvouai\\Source\\Repos\\NewSolution\\NewSolution.Core\\NewSolution.Core.csproj",
   "expectedPackageFiles": [
@@ -125,9 +125,9 @@
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework\\2.2.74-g84be456b97\\xrmframework.2.2.74-g84be456b97.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.2.74-g84be456b97\\xrmframework.analyzers.2.2.74-g84be456b97.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.coreproject\\2.2.74-g84be456b97\\xrmframework.coreproject.2.2.74-g84be456b97.nupkg.sha512"
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework\\2.2.79-gb6673c2f3a\\xrmframework.2.2.79-gb6673c2f3a.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.2.79-gb6673c2f3a\\xrmframework.analyzers.2.2.79-gb6673c2f3a.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.coreproject\\2.2.79-gb6673c2f3a\\xrmframework.coreproject.2.2.79-gb6673c2f3a.nupkg.sha512"
   ],
   "logs": [
     {

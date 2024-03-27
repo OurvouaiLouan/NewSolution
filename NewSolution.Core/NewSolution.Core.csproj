@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="XrmFramework" Version="2.2.74-g84be456b97" />
-    <PackageReference Include="XrmFramework.CoreProject" Version="2.2.74-g84be456b97" />
+    <PackageReference Include="XrmFramework" Version="2.2.79-gb6673c2f3a" />
+    <PackageReference Include="XrmFramework.CoreProject" Version="2.2.79-gb6673c2f3a" />
   </ItemGroup>
 
   <ItemGroup>
