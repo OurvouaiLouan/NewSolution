@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netcoreapp3.1;net462</TargetFrameworks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="XrmFramework" Version="2.2.74-g84be456b97" />
+    <PackageReference Include="XrmFramework.CoreProject" Version="2.2.74-g84be456b97" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Definitions/" />
+    <Folder Include="Model/" />
+    <Folder Include="Services/" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<Compile Remove="**\*.table" />
+		<None Remove="**\*.table" />
+		<AdditionalFiles Include="**/*.table" />
+		<Compile Remove="Generated\**" />
+	</ItemGroup>
+
+</Project>

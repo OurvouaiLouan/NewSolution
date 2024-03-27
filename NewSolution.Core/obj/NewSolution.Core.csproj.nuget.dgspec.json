@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\l.ourvouai\\Source\\Repos\\NewSolution\\NewSolution.Core\\NewSolution.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\l.ourvouai\\Source\\Repos\\NewSolution\\NewSolution.Core\\NewSolution.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\l.ourvouai\\Source\\Repos\\NewSolution\\NewSolution.Core\\NewSolution.Core.csproj",
+        "projectName": "NewSolution.Core",
+        "projectPath": "C:\\Users\\l.ourvouai\\Source\\Repos\\NewSolution\\NewSolution.Core\\NewSolution.Core.csproj",
+        "packagesPath": "C:\\Users\\l.ourvouai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\l.ourvouai\\Source\\Repos\\NewSolution\\NewSolution.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\l.ourvouai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462",
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\l.ourvouai\\source\\repos\\XrmFrameworkFork\\src\\GeneratedNuGetPackages\\Debug": {},
+          "C:\\Users\\l.ourvouai\\source\\repos\\XrmFramework\\src\\GeneratedNuGetPackages\\Release": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          },
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Nerdbank.GitVersioning": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.4.255, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "XrmFramework": {
+              "target": "Package",
+              "version": "[2.2.74-g84be456b97, )"
+            },
+            "XrmFramework.CoreProject": {
+              "target": "Package",
+              "version": "[2.2.74-g84be456b97, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        },
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Nerdbank.GitVersioning": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.4.255, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "XrmFramework": {
+              "target": "Package",
+              "version": "[2.2.74-g84be456b97, )"
+            },
+            "XrmFramework.CoreProject": {
+              "target": "Package",
+              "version": "[2.2.74-g84be456b97, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
