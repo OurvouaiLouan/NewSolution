@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "ius5+yMVhSCMQKboZ62LgpiQbi+j82YFzUqTtD+UIoh5BhNGS62zn96fUtMON8hdBKD6q1E6FS9+97rOeol0ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Utils\\Deploy.Webresources\\Deploy.Webresources.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.crmsdk.coreassemblies\\9.0.2.45\\microsoft.crmsdk.coreassemblies.9.0.2.45.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.crmsdk.deployment\\9.0.2.34\\microsoft.crmsdk.deployment.9.0.2.34.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.crmsdk.workflow\\9.0.2.45\\microsoft.crmsdk.workflow.9.0.2.45.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.crmsdk.xrmtooling.coreassembly\\9.1.0.92\\microsoft.crmsdk.xrmtooling.coreassembly.9.1.0.92.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.identitymodel.clients.activedirectory\\3.19.8\\microsoft.identitymodel.clients.activedirectory.3.19.8.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.2\\microsoft.netframework.referenceassemblies.net462.1.0.2.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.20\\microsoft.rest.clientruntime.2.3.20.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\nerdbank.gitversioning\\3.4.255\\nerdbank.gitversioning.3.4.255.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.deployutils\\2.2.79-gb6673c2f3a\\xrmframework.deployutils.2.2.79-gb6673c2f3a.nupkg.sha512"
+  ],
+  "logs": []
+}

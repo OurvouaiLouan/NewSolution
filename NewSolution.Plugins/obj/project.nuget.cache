@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y4nDkzn7xB8GZWDA3uhwJwHluIBe27GUX2iCHPK+wcenB3NTqJkN6XBlY7KfLj9vjRXLJ/1C0e96lVEtdt9EDw==",
+  "dgSpecHash": "ycdE4DwlCyrm5Dt7vuYoddF+r66bo1vw9J4SaV/4ndkotnST+K4460Qj+jxf1CEqOBe/y2AmtIAi4H67GVD1Eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\l.ourvouai\\Source\\Repos\\NewSolution\\NewSolution.Plugins\\NewSolution.Plugins.csproj",
+  "projectFilePath": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\NewSolution.Plugins\\NewSolution.Plugins.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.crmsdk.coreassemblies\\9.0.2.45\\microsoft.crmsdk.coreassemblies.9.0.2.45.nupkg.sha512",
@@ -29,9 +29,9 @@
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework\\2.2.67\\xrmframework.2.2.67.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.2.67\\xrmframework.analyzers.2.2.67.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.plugin\\2.2.67\\xrmframework.plugin.2.2.67.nupkg.sha512"
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework\\2.2.79-gb6673c2f3a\\xrmframework.2.2.79-gb6673c2f3a.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.2.79-gb6673c2f3a\\xrmframework.analyzers.2.2.79-gb6673c2f3a.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.plugin\\2.2.79-gb6673c2f3a\\xrmframework.plugin.2.2.79-gb6673c2f3a.nupkg.sha512"
   ],
   "logs": []
 }

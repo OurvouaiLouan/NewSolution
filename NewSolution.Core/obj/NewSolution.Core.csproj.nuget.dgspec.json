@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\l.ourvouai\\Source\\Repos\\NewSolution\\NewSolution.Core\\NewSolution.Core.csproj": {}
+    "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\NewSolution.Core\\NewSolution.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\l.ourvouai\\Source\\Repos\\NewSolution\\NewSolution.Core\\NewSolution.Core.csproj": {
+    "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\NewSolution.Core\\NewSolution.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\l.ourvouai\\Source\\Repos\\NewSolution\\NewSolution.Core\\NewSolution.Core.csproj",
+        "projectUniqueName": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\NewSolution.Core\\NewSolution.Core.csproj",
         "projectName": "NewSolution.Core",
-        "projectPath": "C:\\Users\\l.ourvouai\\Source\\Repos\\NewSolution\\NewSolution.Core\\NewSolution.Core.csproj",
+        "projectPath": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\NewSolution.Core\\NewSolution.Core.csproj",
         "packagesPath": "C:\\Users\\l.ourvouai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\l.ourvouai\\Source\\Repos\\NewSolution\\NewSolution.Core\\obj\\",
+        "outputPath": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\NewSolution.Core\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [

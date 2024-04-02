@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CG4fPXm+Z9qreZPiyB+8RR2yfItpJ+WppfAJGsGAsOBD7qYvVSLxKaPPN36n+xVtjDqsGQGaj8Z/ZWW66zK+ZA==",
+  "dgSpecHash": "kK+pkITapnp0j8muSriYrIyC0YsQEINfeqCyMdak8vAqxocqQh3fnWaNktLXA0p2r+KoFaCh84WfD9t4D7vi1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\l.ourvouai\\Source\\Repos\\NewSolution\\Webresources\\Webresources.csproj",
+  "projectFilePath": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Webresources\\Webresources.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net461\\1.0.2\\microsoft.netframework.referenceassemblies.net461.1.0.2.nupkg.sha512",

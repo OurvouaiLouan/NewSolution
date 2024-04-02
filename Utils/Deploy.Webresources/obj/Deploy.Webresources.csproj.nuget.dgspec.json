@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Utils\\Deploy.Webresources\\Deploy.Webresources.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Utils\\Deploy.Webresources\\Deploy.Webresources.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Utils\\Deploy.Webresources\\Deploy.Webresources.csproj",
+        "projectName": "Deploy.Webresources",
+        "projectPath": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Utils\\Deploy.Webresources\\Deploy.Webresources.csproj",
+        "packagesPath": "C:\\Users\\l.ourvouai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Utils\\Deploy.Webresources\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\l.ourvouai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\l.ourvouai\\source\\repos\\XrmFrameworkFork\\src\\GeneratedNuGetPackages\\Debug": {},
+          "C:\\Users\\l.ourvouai\\source\\repos\\XrmFramework\\src\\GeneratedNuGetPackages\\Release": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Nerdbank.GitVersioning": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.4.255, )"
+            },
+            "XrmFramework.DeployUtils": {
+              "target": "Package",
+              "version": "[2.2.79-gb6673c2f3a, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

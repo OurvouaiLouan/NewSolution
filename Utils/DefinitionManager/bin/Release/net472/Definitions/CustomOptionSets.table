@@ -1,0 +1,10 @@
+{
+  "LogName": "globalEnums",
+  "Name": "CustomOptionSets",
+  "Cols": [],
+  "NtoN": [],
+  "OneToN": [],
+  "NToOne": [],
+  "Keys": [],
+  "Enums": []
+}

@@ -1,0 +1,161 @@
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\xrmFramework.config
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\Definitions\Account.table
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\Definitions\Contact.table
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\Definitions\CustomOptionSets.table
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\connectionStrings.config
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\DefinitionManager.exe.config
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\DefinitionManager.exe
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\DefinitionManager.pdb
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\AutoMapper.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Xrm.Sdk.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Rest.ClientRuntime.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Extensions.Options.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Extensions.Primitives.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\Newtonsoft.Json.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\System.Buffers.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\System.ComponentModel.Annotations.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\System.Memory.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\System.Numerics.Vectors.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\System.Text.Encodings.Web.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\System.Text.Json.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\System.Threading.Tasks.Extensions.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\System.ValueTuple.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\XrmFramework.DefinitionManager.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\XrmFramework.DeployUtils.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\DimsiNation.Core.dll
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\bin\Release\net472\DimsiNation.Core.pdb
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\obj\Release\net472\SolutionInfo.cs
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.csproj.AssemblyReference.cache
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.exe.config
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.AssemblyInfoInputs.cache
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.AssemblyInfo.cs
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.csproj.CoreCompileInputs.cache
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.sourcelink.json
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\obj\Release\net472\Definiti.A8141DB2.Up2Date
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.exe
+C:\Users\l.ourvouai\source\repos\DIMSI Formation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.pdb
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\xrmFramework.config
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Definitions\Account.table
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Definitions\Camions.table
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Definitions\Comptesmarchandises.table
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Definitions\Contact.table
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Definitions\Contactcamion.table
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Definitions\CustomOptionSets.table
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Definitions\DimsifAccountCr5d4Lotlogement.table
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Definitions\Localisation.table
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Definitions\Lotlogement.table
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Definitions\Marchandises.table
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Definitions\Missions.table
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Definitions\Programmelogement.table
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Definitions\Routes.table
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Definitions\Ville.table
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\connectionStrings.config
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\DefinitionManager.exe.config
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\DefinitionManager.exe
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\DefinitionManager.pdb
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\AutoMapper.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Humanizer.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Microsoft.CodeAnalysis.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Xrm.Sdk.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Rest.ClientRuntime.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Extensions.Options.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Microsoft.Extensions.Primitives.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\Newtonsoft.Json.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.Buffers.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.Collections.Immutable.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.ComponentModel.Annotations.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.Composition.AttributedModel.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.Composition.Convention.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.Composition.Hosting.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.Composition.Runtime.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.Composition.TypedParts.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.IO.Pipelines.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.Memory.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.Numerics.Vectors.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.Reflection.Metadata.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.Text.Encoding.CodePages.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.Text.Encodings.Web.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.Text.Json.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.Threading.Channels.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.Threading.Tasks.Extensions.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\System.ValueTuple.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\XrmFramework.DefinitionManager.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\XrmFramework.DeployUtils.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\DimsiNation.Core.dll
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\bin\Release\net472\DimsiNation.Core.pdb
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\obj\Release\net472\SolutionInfo.cs
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.csproj.AssemblyReference.cache
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.exe.config
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.AssemblyInfoInputs.cache
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.AssemblyInfo.cs
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.csproj.CoreCompileInputs.cache
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\obj\Release\net472\Definiti.A8141DB2.Up2Date
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.exe
+C:\Users\l.ourvouai\source\repos\DIMSIFormation\Utils\DefinitionManager\obj\Release\net472\DefinitionManager.pdb

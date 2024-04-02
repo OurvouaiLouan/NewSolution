@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="XrmFramework" Version="2.2.67" />
-    <PackageReference Include="XrmFramework.Plugin" Version="2.2.67" />
+    <PackageReference Include="XrmFramework" Version="2.2.79-gb6673c2f3a" />
+    <PackageReference Include="XrmFramework.Plugin" Version="2.2.79-gb6673c2f3a" />
   </ItemGroup>
   
 </Project>

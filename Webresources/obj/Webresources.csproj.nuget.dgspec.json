@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\l.ourvouai\\Source\\Repos\\NewSolution\\Webresources\\Webresources.csproj": {}
+    "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Webresources\\Webresources.csproj": {}
   },
   "projects": {
-    "C:\\Users\\l.ourvouai\\Source\\Repos\\NewSolution\\Webresources\\Webresources.csproj": {
+    "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Webresources\\Webresources.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\l.ourvouai\\Source\\Repos\\NewSolution\\Webresources\\Webresources.csproj",
+        "projectUniqueName": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Webresources\\Webresources.csproj",
         "projectName": "Webresources",
-        "projectPath": "C:\\Users\\l.ourvouai\\Source\\Repos\\NewSolution\\Webresources\\Webresources.csproj",
+        "projectPath": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Webresources\\Webresources.csproj",
         "packagesPath": "C:\\Users\\l.ourvouai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\l.ourvouai\\Source\\Repos\\NewSolution\\Webresources\\obj\\",
+        "outputPath": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Webresources\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\l.ourvouai\\AppData\\Roaming\\NuGet\\NuGet.Config",

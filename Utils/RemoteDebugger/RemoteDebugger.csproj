@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net462</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="$(RootFolder)/NewSolution.Plugins/NewSolution.Plugins.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.Azure.Relay" Version="3.0.1" />
+        <PackageReference Include="XrmFramework.RemoteDebugger.Client" Version="2.2.79-gb6673c2f3a" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Update="@(ProjectReference)" Exclude="">
+            <Aliases>$([System.String]::Copy("%(FileName)").Replace(".",""))</Aliases>
+        </ProjectReference>
+        <ProjectReference Update="../../Framework/XrmFramework.RemoteDebugger.Client\XrmFramework.RemoteDebugger.Client.csproj">
+            <Aliases></Aliases>
+        </ProjectReference>
+    </ItemGroup>
+  
+</Project>
