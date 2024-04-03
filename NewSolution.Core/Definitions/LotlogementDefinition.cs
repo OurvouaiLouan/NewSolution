@@ -20,12 +20,13 @@ namespace NewSolution.Core
         {
             /// <summary>
             /// 
-            /// Type : Uniqueidentifier
-            /// Validity :  Read | Create | AdvancedFind 
+            /// Type : String
+            /// Validity :  Read | Create | Update | AdvancedFind 
             /// </summary>
-            [AttributeMetadata(AttributeTypeCode.Uniqueidentifier)]
-            [PrimaryAttribute(PrimaryAttributeType.Id)]
-            public const string Id = "cr5d4_lotlogementid";
+            [AttributeMetadata(AttributeTypeCode.String)]
+            [PrimaryAttribute(PrimaryAttributeType.Name)]
+            [StringLength(100)]
+            public const string Id = "cr5d4_id";
 
             /// <summary>
             /// 

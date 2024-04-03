@@ -223,3 +223,4 @@ C:\Users\l.ourvouai\source\repos\NewSolution\Utils\DefinitionManager\bin\Debug\n
 C:\Users\l.ourvouai\source\repos\NewSolution\Utils\DefinitionManager\obj\Debug\net472\Definiti.A8141DB2.Up2Date
 C:\Users\l.ourvouai\source\repos\NewSolution\Utils\DefinitionManager\obj\Debug\net472\DefinitionManager.exe
 C:\Users\l.ourvouai\source\repos\NewSolution\Utils\DefinitionManager\obj\Debug\net472\DefinitionManager.pdb
+C:\Users\l.ourvouai\source\repos\NewSolution\Utils\DefinitionManager\bin\Debug\net472\Definitions\Monstre.table

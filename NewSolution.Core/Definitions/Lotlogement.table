@@ -4,6 +4,20 @@
   "CollName": "cr5d4_lotlogements",
   "Cols": [
     {
+      "LogName": "cr5d4_id",
+      "Name": "Id",
+      "Type": "String",
+      "PrimaryType": "Name",
+      "Capa": 15,
+      "Labels": [
+        {
+          "Label": "IdLot",
+          "LangId": 1036
+        }
+      ],
+      "StrLen": 100
+    },
+    {
       "LogName": "cr5d4_lotlogementid",
       "Name": "Id",
       "Type": "Uniqueidentifier",

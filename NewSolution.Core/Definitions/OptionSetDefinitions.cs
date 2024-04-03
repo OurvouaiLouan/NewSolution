@@ -19,6 +19,7 @@ namespace NewSolution.Core
     }
 
 
+
     [OptionSetDefinition("synapselinkprofileentitytype")]
     public enum SynapseLinkProfileEntityType
     {

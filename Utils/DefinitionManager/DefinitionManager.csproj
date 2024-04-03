@@ -13,4 +13,8 @@
     <ProjectReference Include="..\..\NewSolution.Plugins\NewSolution.Plugins.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+	<AdditionalFiles Include="..\..\NewSolution.Core\Definitions\*.table" />
+  </ItemGroup>
+
 </Project>

@@ -2,6 +2,7 @@
 // Licensed under the MIT License. See License.txt in the project root for license information.
 using System;
 using System.Windows.Forms;
+using XrmFramework;
 using XrmFramework.DefinitionManager;
 
 
@@ -17,7 +18,7 @@ namespace DefinitionManager
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainForm(null, "NewSolution.Core"));
+            Application.Run(new MainForm(typeof(Plugin)));
         }
     }
 }

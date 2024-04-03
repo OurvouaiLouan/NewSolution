@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "NewSolution.Core/1.0.3-g5f781dd744": {
+      "NewSolution.Core/1.0.4-g74639d8b0c": {
         "dependencies": {
           "Microsoft.NETFramework.ReferenceAssemblies": "1.0.2",
           "Nerdbank.GitVersioning": "3.4.255",
@@ -1089,7 +1089,7 @@
     }
   },
   "libraries": {
-    "NewSolution.Core/1.0.3-g5f781dd744": {
+    "NewSolution.Core/1.0.4-g74639d8b0c": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
