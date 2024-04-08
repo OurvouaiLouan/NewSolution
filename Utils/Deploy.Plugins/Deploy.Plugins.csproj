@@ -11,6 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="XrmFramework.DeployUtils" Version="2.2.79-gb6673c2f3a" />
+    <PackageReference Include="XrmFramework.DeployUtils" Version="2.2.82-g9b4f25a7bf" />
   </ItemGroup>
 </Project>

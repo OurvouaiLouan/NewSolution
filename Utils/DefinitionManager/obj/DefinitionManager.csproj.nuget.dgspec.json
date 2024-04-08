@@ -70,11 +70,11 @@
             },
             "XrmFramework": {
               "target": "Package",
-              "version": "[2.2.79-gb6673c2f3a, )"
+              "version": "[2.2.82-g9b4f25a7bf, )"
             },
             "XrmFramework.CoreProject": {
               "target": "Package",
-              "version": "[2.2.79-gb6673c2f3a, )"
+              "version": "[2.2.82-g9b4f25a7bf, )"
             }
           },
           "imports": [
@@ -115,11 +115,11 @@
             },
             "XrmFramework": {
               "target": "Package",
-              "version": "[2.2.79-gb6673c2f3a, )"
+              "version": "[2.2.82-g9b4f25a7bf, )"
             },
             "XrmFramework.CoreProject": {
               "target": "Package",
-              "version": "[2.2.79-gb6673c2f3a, )"
+              "version": "[2.2.82-g9b4f25a7bf, )"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
@@ -182,11 +182,11 @@
             },
             "XrmFramework": {
               "target": "Package",
-              "version": "[2.2.79-gb6673c2f3a, )"
+              "version": "[2.2.82-g9b4f25a7bf, )"
             },
             "XrmFramework.Plugin": {
               "target": "Package",
-              "version": "[2.2.79-gb6673c2f3a, )"
+              "version": "[2.2.82-g9b4f25a7bf, )"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
@@ -256,7 +256,7 @@
             },
             "XrmFramework.DefinitionManager": {
               "target": "Package",
-              "version": "[2.2.79-gb6673c2f3a, )"
+              "version": "[2.2.82-g9b4f25a7bf, )"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"

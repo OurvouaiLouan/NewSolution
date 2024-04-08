@@ -57,6 +57,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.4.255, )"
+            },
+            "XrmFramework.Analyzers": {
+              "target": "Package",
+              "version": "[2.2.82-g9b4f25a7bf, )"
             }
           },
           "imports": [

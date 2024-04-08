@@ -5,16 +5,14 @@
     <TargetFramework>net472</TargetFramework>
   </PropertyGroup>
 
+  
+
   <ItemGroup>
-    <PackageReference Include="XrmFramework.DefinitionManager" Version="2.2.79-gb6673c2f3a" />
+    <PackageReference Include="XrmFramework.DefinitionManager" Version="2.2.82-g9b4f25a7bf" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\..\NewSolution.Plugins\NewSolution.Plugins.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-	<AdditionalFiles Include="..\..\NewSolution.Core\Definitions\*.table" />
   </ItemGroup>
 
 </Project>

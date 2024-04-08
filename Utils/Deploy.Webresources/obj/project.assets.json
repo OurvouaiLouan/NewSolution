@@ -357,7 +357,7 @@
           }
         }
       },
-      "XrmFramework.DeployUtils/2.2.79-gb6673c2f3a": {
+      "XrmFramework.DeployUtils/2.2.82-g9b4f25a7bf": {
         "type": "package",
         "dependencies": {
           "CommandLineParser": "2.9.1",
@@ -737,7 +737,7 @@
           }
         }
       },
-      "XrmFramework.DeployUtils/2.2.79-gb6673c2f3a": {
+      "XrmFramework.DeployUtils/2.2.82-g9b4f25a7bf": {
         "type": "package",
         "dependencies": {
           "CommandLineParser": "2.9.1",
@@ -1643,17 +1643,17 @@
         "version.txt"
       ]
     },
-    "XrmFramework.DeployUtils/2.2.79-gb6673c2f3a": {
-      "sha512": "+ESwCTOhCitggiWUmcLvIhESpQCxjX98ik8hET/gEY7SyyUAdzo416vJbsyP1dsLG8sSIDOCxO3iN/WpzsIosg==",
+    "XrmFramework.DeployUtils/2.2.82-g9b4f25a7bf": {
+      "sha512": "gXY1kbu2DtBf7fz8NgUZReSLCPFJmN57mYVXsaEjufuptjg+VIrw7G9R8Wxj/NNV3CRvKABrcKxTOMtDkPGa/w==",
       "type": "package",
-      "path": "xrmframework.deployutils/2.2.79-gb6673c2f3a",
+      "path": "xrmframework.deployutils/2.2.82-g9b4f25a7bf",
       "files": [
         ".nupkg.metadata",
         "build/net462/XrmFramework.DeployUtils.props",
         "lib/net462/XrmFramework.DeployUtils.dll",
         "lib/net462/XrmFramework.DeployUtils.dll.config",
         "lib/net462/XrmFramework.DeployUtils.xml",
-        "xrmframework.deployutils.2.2.79-gb6673c2f3a.nupkg.sha512",
+        "xrmframework.deployutils.2.2.82-g9b4f25a7bf.nupkg.sha512",
         "xrmframework.deployutils.nuspec"
       ]
     }
@@ -1662,7 +1662,7 @@
     ".NETFramework,Version=v4.6.2": [
       "Microsoft.NETFramework.ReferenceAssemblies >= 1.0.2",
       "Nerdbank.GitVersioning >= 3.4.255",
-      "XrmFramework.DeployUtils >= 2.2.79-gb6673c2f3a"
+      "XrmFramework.DeployUtils >= 2.2.82-g9b4f25a7bf"
     ]
   },
   "packageFolders": {
@@ -1724,7 +1724,7 @@
           },
           "XrmFramework.DeployUtils": {
             "target": "Package",
-            "version": "[2.2.79-gb6673c2f3a, )"
+            "version": "[2.2.82-g9b4f25a7bf, )"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"

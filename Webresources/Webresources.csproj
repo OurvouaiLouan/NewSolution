@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -6,5 +6,35 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <LangVersion>preview</LangVersion>
   </PropertyGroup>
+
+
+
+	<PropertyGroup>
+		<EmitCompilerGeneratedFiles>true</EmitCompilerGeneratedFiles>
+		<CompilerGeneratedFilesOutputPath>GeneratedJson</CompilerGeneratedFilesOutputPath>
+	</PropertyGroup>
+
+
+	<ItemGroup>
+		<PackageReference Include="XrmFramework.Analyzers" Version="2.2.82-g9b4f25a7bf" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Remove="..\NewSolution.Core\**\*.table" />
+		<AdditionalFiles Include="..\NewSolution.Core\**\*.table" Exclude="bin/**;obj/**" />
+
+		<Compile Remove="**/GeneratedJson/**/*.cs" />
+		<None Include="**/GeneratedJson/**/*.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="TestGeneratedJsonOutput\" />
+	</ItemGroup>
+
+
+	<!--<Target Name="ChangeExtensionPostBuild" AfterTargets="PostBuildEvent">
+		<Exec Command="powershell -Command &quot;$files = Get-ChildItem -Path 'TestGeneratedJsonInput\'; foreach($file in $files){$newFileName=$file.FullName.Replace('.json.cs','.json'); Rename-Item -Path $file.FullName -NewName $newFileName; Move-Item -Path $newFileName 'TestGeneratedJsonOutput\'}&quot;" />
+	</Target>-->
+
 
 </Project>
