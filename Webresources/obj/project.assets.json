@@ -23,7 +23,7 @@
           "buildCrossTargeting/Nerdbank.GitVersioning.targets": {}
         }
       },
-      "XrmFramework.Analyzers/2.2.82-g9b4f25a7bf": {
+      "XrmFramework.Analyzers/2.3.1": {
         "type": "package"
       }
     }
@@ -418,16 +418,17 @@
         "readme.txt"
       ]
     },
-    "XrmFramework.Analyzers/2.2.82-g9b4f25a7bf": {
-      "sha512": "p8qjJ8HvhuFyDgdW1nGSKBBojuSwfulhBBOtznTx6Vz/ad49GM7vpCxQdJWLxj7G5c4PRftDIHZBtt2cVaErDg==",
+    "XrmFramework.Analyzers/2.3.1": {
+      "sha512": "E7BUfbEZEQmF2Dfb/8BtbPE8e8Pb/5JezKveM838rLN11wBA0eKrLEqeKR5eOHyEScIH1KCOH7E4vDgpE5rCmA==",
       "type": "package",
-      "path": "xrmframework.analyzers/2.2.82-g9b4f25a7bf",
+      "path": "xrmframework.analyzers/2.3.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "analyzers/dotnet/cs/XrmFramework.Analyzers.deps.json",
         "analyzers/dotnet/cs/XrmFramework.Analyzers.dll",
         "analyzers/dotnet/cs/XrmFramework.Analyzers.pdb",
-        "xrmframework.analyzers.2.2.82-g9b4f25a7bf.nupkg.sha512",
+        "xrmframework.analyzers.2.3.1.nupkg.sha512",
         "xrmframework.analyzers.nuspec"
       ]
     }
@@ -436,7 +437,7 @@
     "net6.0": [
       "Microsoft.NETFramework.ReferenceAssemblies >= 1.0.2",
       "Nerdbank.GitVersioning >= 3.4.255",
-      "XrmFramework.Analyzers >= 2.2.82-g9b4f25a7bf"
+      "XrmFramework.Analyzers >= 2.2.91-g15c4fb8559"
     ]
   },
   "packageFolders": {
@@ -498,7 +499,7 @@
           },
           "XrmFramework.Analyzers": {
             "target": "Package",
-            "version": "[2.2.82-g9b4f25a7bf, )"
+            "version": "[2.2.91-g15c4fb8559, )"
           }
         },
         "imports": [
@@ -523,5 +524,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Webresources depends on XrmFramework.Analyzers (>= 2.2.91-g15c4fb8559) but XrmFramework.Analyzers 2.2.91-g15c4fb8559 was not found. An approximate best match of XrmFramework.Analyzers 2.3.1 was resolved.",
+      "libraryId": "XrmFramework.Analyzers",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

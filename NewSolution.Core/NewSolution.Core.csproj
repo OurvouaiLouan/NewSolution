@@ -1,18 +1,20 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFrameworks>netcoreapp3.1;net462</TargetFrameworks>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="XrmFramework" Version="2.2.82-g9b4f25a7bf" />
-    <PackageReference Include="XrmFramework.CoreProject" Version="2.2.82-g9b4f25a7bf" />
-  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="XrmFramework" Version="2.2.91-g15c4fb8559" />
+		<PackageReference Include="XrmFramework.Analyzers" Version="2.3.1" />
+		<PackageReference Include="XrmFramework.CoreProject" Version="2.2.91-g15c4fb8559" />
+		<PackageReference Include="XrmFramework.WebresourcesAnalyzers" Version="2.2.90-g9e01b59ea1" />
+	</ItemGroup>
 
   <ItemGroup>
     <Folder Include="Definitions/" />
-    <Folder Include="Model/" />
-    <Folder Include="Services/" />
+    <!--<Folder Include="Model/" />
+    <Folder Include="Services/" />-->
   </ItemGroup>
 
 	<ItemGroup>

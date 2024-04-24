@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "H/5gp7kE+vCfFMNj2ovoK4/9PnyOecjHL2pAcR5Q6cnmUBfMU4AKd1RRx75+TXBaNwzTVfVfphbZ4PzsupmYDQ==",
+  "dgSpecHash": "Pw5rnrGzEtRWiQm/z3oPC98aK5XhxaNuN9kwF+sUVwkDgE6r9D1zXPJWfcgXp7RtDPBj5ohaKP3Ik5Muj6ktrg==",
   "success": true,
   "projectFilePath": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Utils\\RemoteDebugger\\RemoteDebugger.csproj",
   "expectedPackageFiles": [
@@ -8,8 +8,8 @@
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\azure.identity\\1.2.3\\azure.identity.1.2.3.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.azure.relay\\3.0.1\\microsoft.azure.relay.3.0.1.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.crmsdk.coreassemblies\\9.0.2.45\\microsoft.crmsdk.coreassemblies.9.0.2.45.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.crmsdk.workflow\\9.0.2.45\\microsoft.crmsdk.workflow.9.0.2.45.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.crmsdk.coreassemblies\\9.0.2.50\\microsoft.crmsdk.coreassemblies.9.0.2.50.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.crmsdk.workflow\\9.0.2.50\\microsoft.crmsdk.workflow.9.0.2.50.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.identity.client\\4.16.1\\microsoft.identity.client.4.16.1.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.12.0\\microsoft.identity.client.extensions.msal.2.12.0.nupkg.sha512",
@@ -37,13 +37,47 @@
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.text.json\\6.0.7\\system.text.json.6.0.7.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework\\2.2.82-g9b4f25a7bf\\xrmframework.2.2.82-g9b4f25a7bf.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.2.82-g9b4f25a7bf\\xrmframework.analyzers.2.2.82-g9b4f25a7bf.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.plugin\\2.2.82-g9b4f25a7bf\\xrmframework.plugin.2.2.82-g9b4f25a7bf.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.remotedebugger.client\\2.2.82-g9b4f25a7bf\\xrmframework.remotedebugger.client.2.2.82-g9b4f25a7bf.nupkg.sha512"
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework\\2.3.1\\xrmframework.2.3.1.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.3.1\\xrmframework.analyzers.2.3.1.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.plugin\\2.3.1\\xrmframework.plugin.2.3.1.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.remotedebugger.client\\2.3.1\\xrmframework.remotedebugger.client.2.3.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "NewSolution.Plugins depends on XrmFramework (>= 2.2.91-g15c4fb8559) but XrmFramework 2.2.91-g15c4fb8559 was not found. An approximate best match of XrmFramework 2.3.1 was resolved.",
+      "libraryId": "XrmFramework",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.2",
+        ".NETFramework,Version=v4.6.2/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "NewSolution.Plugins depends on XrmFramework.Plugin (>= 2.2.91-g15c4fb8559) but XrmFramework.Plugin 2.2.91-g15c4fb8559 was not found. An approximate best match of XrmFramework.Plugin 2.3.1 was resolved.",
+      "libraryId": "XrmFramework.Plugin",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.2",
+        ".NETFramework,Version=v4.6.2/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "RemoteDebugger depends on XrmFramework.RemoteDebugger.Client (>= 2.2.91-g15c4fb8559) but XrmFramework.RemoteDebugger.Client 2.2.91-g15c4fb8559 was not found. An approximate best match of XrmFramework.RemoteDebugger.Client 2.3.1 was resolved.",
+      "libraryId": "XrmFramework.RemoteDebugger.Client",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.2",
+        ".NETFramework,Version=v4.6.2/win7-x86"
+      ]
+    }
+  ]
 }

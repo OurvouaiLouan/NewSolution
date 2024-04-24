@@ -1,13 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "cXjaug1o1hdcbryjC3AHDoRVIppmBW/3MiWgbELgxeRpAkJBETqa90vHhR2LVzEOawJ1nO+vYO056DpEIfKCZQ==",
+  "dgSpecHash": "AeIg9boH6hZ1BQ/5wy9r6sp7yfpG7AI677RL4wdekxvGvjAWCpHPghhto4TacXBPX/mgHRD8iCEs9d2jbj22AA==",
   "success": true,
   "projectFilePath": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Webresources\\Webresources.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net461\\1.0.2\\microsoft.netframework.referenceassemblies.net461.1.0.2.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\nerdbank.gitversioning\\3.4.255\\nerdbank.gitversioning.3.4.255.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.2.82-g9b4f25a7bf\\xrmframework.analyzers.2.2.82-g9b4f25a7bf.nupkg.sha512"
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.3.1\\xrmframework.analyzers.2.3.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Webresources depends on XrmFramework.Analyzers (>= 2.2.91-g15c4fb8559) but XrmFramework.Analyzers 2.2.91-g15c4fb8559 was not found. An approximate best match of XrmFramework.Analyzers 2.3.1 was resolved.",
+      "libraryId": "XrmFramework.Analyzers",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

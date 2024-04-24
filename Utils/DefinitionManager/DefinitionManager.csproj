@@ -8,7 +8,7 @@
   
 
   <ItemGroup>
-    <PackageReference Include="XrmFramework.DefinitionManager" Version="2.2.82-g9b4f25a7bf" />
+    <PackageReference Include="XrmFramework.DefinitionManager" Version="2.2.91-g15c4fb8559" />
   </ItemGroup>
 
   <ItemGroup>

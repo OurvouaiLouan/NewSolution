@@ -13,7 +13,7 @@
     <SourceRoot Include="C:\Users\l.ourvouai\.nuget\packages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)xrmframework.deployutils\2.2.82-g9b4f25a7bf\build\net462\XrmFramework.DeployUtils.props" Condition="Exists('$(NuGetPackageRoot)xrmframework.deployutils\2.2.82-g9b4f25a7bf\build\net462\XrmFramework.DeployUtils.props')" />
-    <Import Project="$(NuGetPackageRoot)xrmframework.definitionmanager\2.2.82-g9b4f25a7bf\build\net462\XrmFramework.DefinitionManager.props" Condition="Exists('$(NuGetPackageRoot)xrmframework.definitionmanager\2.2.82-g9b4f25a7bf\build\net462\XrmFramework.DefinitionManager.props')" />
+    <Import Project="$(NuGetPackageRoot)xrmframework.deployutils\2.3.1\build\net462\XrmFramework.DeployUtils.props" Condition="Exists('$(NuGetPackageRoot)xrmframework.deployutils\2.3.1\build\net462\XrmFramework.DeployUtils.props')" />
+    <Import Project="$(NuGetPackageRoot)xrmframework.definitionmanager\2.2.91-g15c4fb8559\build\net462\XrmFramework.DefinitionManager.props" Condition="Exists('$(NuGetPackageRoot)xrmframework.definitionmanager\2.2.91-g15c4fb8559\build\net462\XrmFramework.DefinitionManager.props')" />
   </ImportGroup>
 </Project>
