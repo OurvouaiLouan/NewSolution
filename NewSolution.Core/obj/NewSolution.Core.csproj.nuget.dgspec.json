@@ -66,7 +66,7 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[13.0.3, )"
+              "version": "[12.0.3, )"
             },
             "XrmFramework": {
               "target": "Package",
@@ -74,7 +74,7 @@
             },
             "XrmFramework.Analyzers": {
               "target": "Package",
-              "version": "[2.3.1, )"
+              "version": "[2.2.91-g15c4fb8559, )"
             },
             "XrmFramework.CoreProject": {
               "target": "Package",
@@ -119,7 +119,7 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[13.0.3, )"
+              "version": "[12.0.3, )"
             },
             "XrmFramework": {
               "target": "Package",
@@ -127,7 +127,7 @@
             },
             "XrmFramework.Analyzers": {
               "target": "Package",
-              "version": "[2.3.1, )"
+              "version": "[2.2.91-g15c4fb8559, )"
             },
             "XrmFramework.CoreProject": {
               "target": "Package",

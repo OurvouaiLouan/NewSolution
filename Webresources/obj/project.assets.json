@@ -23,7 +23,7 @@
           "buildCrossTargeting/Nerdbank.GitVersioning.targets": {}
         }
       },
-      "XrmFramework.Analyzers/2.3.1": {
+      "XrmFramework.Analyzers/2.2.91-g15c4fb8559": {
         "type": "package"
       }
     }
@@ -418,17 +418,16 @@
         "readme.txt"
       ]
     },
-    "XrmFramework.Analyzers/2.3.1": {
-      "sha512": "E7BUfbEZEQmF2Dfb/8BtbPE8e8Pb/5JezKveM838rLN11wBA0eKrLEqeKR5eOHyEScIH1KCOH7E4vDgpE5rCmA==",
+    "XrmFramework.Analyzers/2.2.91-g15c4fb8559": {
+      "sha512": "1CJnBq4TDh38ZlJvkBHE4RVj6WYVplp9Jv8O7tKWEx1YS6rY40AXJoLHmTi7Fmhz5CYlyH7nCB6Y5BI6IG7LaQ==",
       "type": "package",
-      "path": "xrmframework.analyzers/2.3.1",
+      "path": "xrmframework.analyzers/2.2.91-g15c4fb8559",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "analyzers/dotnet/cs/XrmFramework.Analyzers.deps.json",
         "analyzers/dotnet/cs/XrmFramework.Analyzers.dll",
         "analyzers/dotnet/cs/XrmFramework.Analyzers.pdb",
-        "xrmframework.analyzers.2.3.1.nupkg.sha512",
+        "xrmframework.analyzers.2.2.91-g15c4fb8559.nupkg.sha512",
         "xrmframework.analyzers.nuspec"
       ]
     }
@@ -524,17 +523,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Webresources depends on XrmFramework.Analyzers (>= 2.2.91-g15c4fb8559) but XrmFramework.Analyzers 2.2.91-g15c4fb8559 was not found. An approximate best match of XrmFramework.Analyzers 2.3.1 was resolved.",
-      "libraryId": "XrmFramework.Analyzers",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

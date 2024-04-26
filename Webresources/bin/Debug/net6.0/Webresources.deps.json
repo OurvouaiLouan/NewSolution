@@ -6,11 +6,11 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Webresources/1.0.6-gdad673241b": {
+      "Webresources/1.0.7-g2ff334917d": {
         "dependencies": {
           "Microsoft.NETFramework.ReferenceAssemblies": "1.0.2",
           "Nerdbank.GitVersioning": "3.4.255",
-          "XrmFramework.Analyzers": "2.3.1"
+          "XrmFramework.Analyzers": "2.2.91-g15c4fb8559"
         },
         "runtime": {
           "Webresources.dll": {}
@@ -23,11 +23,11 @@
       },
       "Microsoft.NETFramework.ReferenceAssemblies.net461/1.0.2": {},
       "Nerdbank.GitVersioning/3.4.255": {},
-      "XrmFramework.Analyzers/2.3.1": {}
+      "XrmFramework.Analyzers/2.2.91-g15c4fb8559": {}
     }
   },
   "libraries": {
-    "Webresources/1.0.6-gdad673241b": {
+    "Webresources/1.0.7-g2ff334917d": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -53,12 +53,12 @@
       "path": "nerdbank.gitversioning/3.4.255",
       "hashPath": "nerdbank.gitversioning.3.4.255.nupkg.sha512"
     },
-    "XrmFramework.Analyzers/2.3.1": {
+    "XrmFramework.Analyzers/2.2.91-g15c4fb8559": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-E7BUfbEZEQmF2Dfb/8BtbPE8e8Pb/5JezKveM838rLN11wBA0eKrLEqeKR5eOHyEScIH1KCOH7E4vDgpE5rCmA==",
-      "path": "xrmframework.analyzers/2.3.1",
-      "hashPath": "xrmframework.analyzers.2.3.1.nupkg.sha512"
+      "sha512": "sha512-1CJnBq4TDh38ZlJvkBHE4RVj6WYVplp9Jv8O7tKWEx1YS6rY40AXJoLHmTi7Fmhz5CYlyH7nCB6Y5BI6IG7LaQ==",
+      "path": "xrmframework.analyzers/2.2.91-g15c4fb8559",
+      "hashPath": "xrmframework.analyzers.2.2.91-g15c4fb8559.nupkg.sha512"
     }
   }
 }
