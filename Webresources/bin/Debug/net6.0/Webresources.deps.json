@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Webresources/1.0.7-g2ff334917d": {
+      "Webresources/1.0.8-g5be0e647b1": {
         "dependencies": {
           "Microsoft.NETFramework.ReferenceAssemblies": "1.0.2",
           "Nerdbank.GitVersioning": "3.4.255",
@@ -27,7 +27,7 @@
     }
   },
   "libraries": {
-    "Webresources/1.0.7-g2ff334917d": {
+    "Webresources/1.0.8-g5be0e647b1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

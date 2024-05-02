@@ -4,6 +4,11 @@
     <TargetFrameworks>netcoreapp3.1;net462</TargetFrameworks>
   </PropertyGroup>
 
+	<PropertyGroup>
+		<JSOutputFolderPath>obj\GeneratedJson</JSOutputFolderPath>
+		<CompilerGeneratedFilesOutputPath>Definition</CompilerGeneratedFilesOutputPath>
+	</PropertyGroup>
+
 	<ItemGroup>
 		<PackageReference Include="XrmFramework" Version="2.2.91-g15c4fb8559" />
 		<PackageReference Include="XrmFramework.Analyzers" Version="2.2.91-g15c4fb8559" />
@@ -25,5 +30,24 @@
 		<AdditionalFiles Include="**/*.table" />
 		<Compile Remove="Generated\**" />
 	</ItemGroup>
+
+	<!--<ItemGroup>
+		<Content Remove="obj\**" />
+		<EmbeddedResource Remove="obj\**" />
+		<None Remove="..\JsonTests\**\*.table" />
+		<None Remove="obj\**" />
+		<AdditionalFiles Include="..\JsonTests\**\*.table" Exclude="bin/**;obj/**" />
+
+		<Compile Remove="$(CompilerGeneratedFilesOutputPath)/**/*.cs" />
+
+		<Compile Remove="**/$(JSOutputFolderPath)" />
+
+		<Compile Remove="obj\**" />
+		<None Include="**/$(JSOutputFolderPath)" />
+
+
+		<None Remove="$(CompilerGeneratedFilesOutputPath)\**" />
+		<None Include="$(JSOutputFolderPath)\*.js"/>
+	</ItemGroup>-->
 
 </Project>
