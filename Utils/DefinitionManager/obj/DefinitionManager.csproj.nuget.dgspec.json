@@ -200,6 +200,10 @@
               "target": "Package",
               "version": "[2.2.91-g15c4fb8559, )"
             },
+            "XrmFramework.Analyzers": {
+              "target": "Package",
+              "version": "[2.2.91-g15c4fb8559, )"
+            },
             "XrmFramework.Plugin": {
               "target": "Package",
               "version": "[2.2.91-g15c4fb8559, )"
@@ -269,6 +273,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.4.255, )"
+            },
+            "XrmFramework.Analyzers": {
+              "target": "Package",
+              "version": "[2.2.91-g15c4fb8559, )"
             },
             "XrmFramework.DefinitionManager": {
               "target": "Package",

@@ -62,6 +62,10 @@
               "target": "Package",
               "version": "[2.2.91-g15c4fb8559, )"
             },
+            "XrmFramework.Analyzers": {
+              "target": "Package",
+              "version": "[2.2.91-g15c4fb8559, )"
+            },
             "XrmFramework.Plugin": {
               "target": "Package",
               "version": "[2.2.91-g15c4fb8559, )"

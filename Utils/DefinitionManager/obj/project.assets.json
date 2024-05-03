@@ -820,6 +820,7 @@
         "framework": ".NETFramework,Version=v4.6.2",
         "dependencies": {
           "XrmFramework": "2.2.91-g15c4fb8559",
+          "XrmFramework.Analyzers": "2.2.91-g15c4fb8559",
           "XrmFramework.Plugin": "2.2.91-g15c4fb8559"
         },
         "compile": {
@@ -1593,6 +1594,7 @@
         "framework": ".NETFramework,Version=v4.6.2",
         "dependencies": {
           "XrmFramework": "2.2.91-g15c4fb8559",
+          "XrmFramework.Analyzers": "2.2.91-g15c4fb8559",
           "XrmFramework.Plugin": "2.2.91-g15c4fb8559"
         },
         "compile": {
@@ -3888,6 +3890,7 @@
       "Nerdbank.GitVersioning >= 3.4.255",
       "NewSolution.Core >= 1.0.0",
       "NewSolution.Plugins >= 1.0.0",
+      "XrmFramework.Analyzers >= 2.2.91-g15c4fb8559",
       "XrmFramework.DefinitionManager >= 2.2.91-g15c4fb8559"
     ]
   },
@@ -3954,6 +3957,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[3.4.255, )"
+          },
+          "XrmFramework.Analyzers": {
+            "target": "Package",
+            "version": "[2.2.91-g15c4fb8559, )"
           },
           "XrmFramework.DefinitionManager": {
             "target": "Package",

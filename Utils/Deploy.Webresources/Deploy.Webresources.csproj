@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="XrmFramework.Analyzers" Version="2.2.91-g15c4fb8559" />
     <PackageReference Include="XrmFramework.DeployUtils" Version="2.2.91-g15c4fb8559" />
   </ItemGroup>
 

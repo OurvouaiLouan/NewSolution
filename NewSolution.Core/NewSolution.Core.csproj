@@ -1,12 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFrameworks>netcoreapp3.1;net462</TargetFrameworks>
-  </PropertyGroup>
-
 	<PropertyGroup>
-		<JSOutputFolderPath>obj\GeneratedJson</JSOutputFolderPath>
-		<CompilerGeneratedFilesOutputPath>Definition</CompilerGeneratedFilesOutputPath>
+		<TargetFrameworks>netcoreapp3.1;net462</TargetFrameworks>
 	</PropertyGroup>
 
 	<ItemGroup>
@@ -16,12 +11,12 @@
 		<PackageReference Include="XrmFramework.WebresourcesAnalyzers" Version="2.2.90-g9e01b59ea1" />
 	</ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Definitions/" />
-  </ItemGroup>
+	<ItemGroup>
+		<Folder Include="Definitions/" />
+	</ItemGroup>
 
 	<ItemGroup>
-		<AdditionalFiles Include="..\NewSolution.Core\**\*.table" Exclude="bin\**;obj\**"/>
+		<AdditionalFiles Include="..\NewSolution.Core\**\*.table" Exclude="bin\**;obj\**" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -29,25 +24,33 @@
 		<None Remove="**\*.table" />
 		<AdditionalFiles Include="**/*.table" />
 		<Compile Remove="Generated\**" />
-	</ItemGroup>
-
-	<!--<ItemGroup>
+		
 		<Content Remove="obj\**" />
 		<EmbeddedResource Remove="obj\**" />
-		<None Remove="..\JsonTests\**\*.table" />
+		<None Remove="..\NewSolution.Core\**\*.table" />
 		<None Remove="obj\**" />
-		<AdditionalFiles Include="..\JsonTests\**\*.table" Exclude="bin/**;obj/**" />
+		<AdditionalFiles Include="..\NewSolution.Core\**\*.table" Exclude="bin/**;obj/**" />
 
-		<Compile Remove="$(CompilerGeneratedFilesOutputPath)/**/*.cs" />
+		<Compile Remove="Definitions/**/*.cs" />
 
-		<Compile Remove="**/$(JSOutputFolderPath)" />
+		<Compile Remove="**/obj/GeneratedJson" />
 
-		<Compile Remove="obj\**" />
-		<None Include="**/$(JSOutputFolderPath)" />
+		<Compile Remove="obj/**" />
+		<None Include="**/obj/GeneratedJson" />
 
 
-		<None Remove="$(CompilerGeneratedFilesOutputPath)\**" />
-		<None Include="$(JSOutputFolderPath)\*.js"/>
-	</ItemGroup>-->
+		<None Remove="Definitions/**" />
+		<None Include="obj/GeneratedJson/*.js" />
+	</ItemGroup>
+
+
+	<UsingTask TaskName="WebresourcesAnalyzers.PostBuildTask" AssemblyFile="../XrmFramework.WebresourcesAnalyzers/bin/Release/netstandard2.0/XrmFramework.WebresourcesAnalyzers.dll" />
+
+	<Target Name="Convert JsonCs to Js" AfterTargets="Build">
+		<PostBuildTask FilesToConvertPath="$(MSBuildThisFileDirectory)obj/GeneratedJson\XrmFramework.Analyzers\XrmFramework.Analyzers.Generators.TableJsonDefinitionGenerator\" ConvertedFilesPath="$(MSBuildThisFileDirectory)Definitions">
+
+		</PostBuildTask>
+	</Target>
+	
 
 </Project>
