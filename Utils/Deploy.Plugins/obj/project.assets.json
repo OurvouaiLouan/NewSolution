@@ -604,7 +604,7 @@
           }
         }
       },
-      "XrmFramework/2.2.91-g15c4fb8559": {
+      "XrmFramework/2.2.95-ge3ced36e69": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.7.0",
@@ -612,7 +612,7 @@
           "System.ComponentModel.Annotations": "5.0.0",
           "System.Configuration.ConfigurationManager": "5.0.0",
           "System.Net.Http": "4.3.4",
-          "XrmFramework.Analyzers": "[2.2.91-g15c4fb8559]"
+          "XrmFramework.Analyzers": "[2.2.95-ge3ced36e69]"
         },
         "compile": {
           "lib/net462/_._": {}
@@ -631,10 +631,10 @@
           "build/net462/_._": {}
         }
       },
-      "XrmFramework.Analyzers/2.2.91-g15c4fb8559": {
+      "XrmFramework.Analyzers/2.2.95-ge3ced36e69": {
         "type": "package"
       },
-      "XrmFramework.DeployUtils/2.2.91-g15c4fb8559": {
+      "XrmFramework.DeployUtils/2.2.95-ge3ced36e69": {
         "type": "package",
         "dependencies": {
           "CommandLineParser": "2.9.1",
@@ -657,11 +657,11 @@
           "build/net462/XrmFramework.DeployUtils.props": {}
         }
       },
-      "XrmFramework.Plugin/2.2.91-g15c4fb8559": {
+      "XrmFramework.Plugin/2.2.95-ge3ced36e69": {
         "type": "package",
         "dependencies": {
           "Microsoft.CrmSdk.Workflow": "9.0.2.45",
-          "XrmFramework": "[2.2.91-g15c4fb8559]"
+          "XrmFramework": "[2.2.95-ge3ced36e69]"
         },
         "compile": {
           "lib/net462/_._": {}
@@ -684,9 +684,9 @@
         "type": "project",
         "framework": ".NETFramework,Version=v4.6.2",
         "dependencies": {
-          "XrmFramework": "2.2.91-g15c4fb8559",
-          "XrmFramework.Analyzers": "2.2.91-g15c4fb8559",
-          "XrmFramework.Plugin": "2.2.91-g15c4fb8559"
+          "XrmFramework": "2.2.95-ge3ced36e69",
+          "XrmFramework.Analyzers": "2.2.95-ge3ced36e69",
+          "XrmFramework.Plugin": "2.2.95-ge3ced36e69"
         },
         "compile": {
           "bin/placeholder/NewSolution.Plugins.dll": {}
@@ -1243,7 +1243,7 @@
           }
         }
       },
-      "XrmFramework/2.2.91-g15c4fb8559": {
+      "XrmFramework/2.2.95-ge3ced36e69": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.7.0",
@@ -1251,7 +1251,7 @@
           "System.ComponentModel.Annotations": "5.0.0",
           "System.Configuration.ConfigurationManager": "5.0.0",
           "System.Net.Http": "4.3.4",
-          "XrmFramework.Analyzers": "[2.2.91-g15c4fb8559]"
+          "XrmFramework.Analyzers": "[2.2.95-ge3ced36e69]"
         },
         "compile": {
           "lib/net462/_._": {}
@@ -1270,10 +1270,10 @@
           "build/net462/_._": {}
         }
       },
-      "XrmFramework.Analyzers/2.2.91-g15c4fb8559": {
+      "XrmFramework.Analyzers/2.2.95-ge3ced36e69": {
         "type": "package"
       },
-      "XrmFramework.DeployUtils/2.2.91-g15c4fb8559": {
+      "XrmFramework.DeployUtils/2.2.95-ge3ced36e69": {
         "type": "package",
         "dependencies": {
           "CommandLineParser": "2.9.1",
@@ -1296,11 +1296,11 @@
           "build/net462/XrmFramework.DeployUtils.props": {}
         }
       },
-      "XrmFramework.Plugin/2.2.91-g15c4fb8559": {
+      "XrmFramework.Plugin/2.2.95-ge3ced36e69": {
         "type": "package",
         "dependencies": {
           "Microsoft.CrmSdk.Workflow": "9.0.2.45",
-          "XrmFramework": "[2.2.91-g15c4fb8559]"
+          "XrmFramework": "[2.2.95-ge3ced36e69]"
         },
         "compile": {
           "lib/net462/_._": {}
@@ -1323,9 +1323,9 @@
         "type": "project",
         "framework": ".NETFramework,Version=v4.6.2",
         "dependencies": {
-          "XrmFramework": "2.2.91-g15c4fb8559",
-          "XrmFramework.Analyzers": "2.2.91-g15c4fb8559",
-          "XrmFramework.Plugin": "2.2.91-g15c4fb8559"
+          "XrmFramework": "2.2.95-ge3ced36e69",
+          "XrmFramework.Analyzers": "2.2.95-ge3ced36e69",
+          "XrmFramework.Plugin": "2.2.95-ge3ced36e69"
         },
         "compile": {
           "bin/placeholder/NewSolution.Plugins.dll": {}
@@ -2743,10 +2743,10 @@
         "version.txt"
       ]
     },
-    "XrmFramework/2.2.91-g15c4fb8559": {
-      "sha512": "lJsgp63bgEw7hl3qcbaYjC+MuJFNh8sfxRxAdx4JHuCFqZhlw/+bEfboWKdDzbCYBEYzVxe6Yb8lbn1FkXDMcA==",
+    "XrmFramework/2.2.95-ge3ced36e69": {
+      "sha512": "tR21XNiuhvfJGBPjiAoxGm0Nso1ibJFzF1u5w+WRiELCtdsrm8xZnYIS9Wv8GxrMPBn/LticIz7gaVK2WCrKYQ==",
       "type": "package",
-      "path": "xrmframework/2.2.91-g15c4fb8559",
+      "path": "xrmframework/2.2.95-ge3ced36e69",
       "files": [
         ".nupkg.metadata",
         "build/net462/XrmFramework.props",
@@ -2870,41 +2870,41 @@
         "contentFiles/cs/any/__Imports/XrmFramework/Utils/Statics.cs",
         "lib/net462/_._",
         "lib/netcoreapp3.1/_._",
-        "xrmframework.2.2.91-g15c4fb8559.nupkg.sha512",
+        "xrmframework.2.2.95-ge3ced36e69.nupkg.sha512",
         "xrmframework.nuspec"
       ]
     },
-    "XrmFramework.Analyzers/2.2.91-g15c4fb8559": {
-      "sha512": "1CJnBq4TDh38ZlJvkBHE4RVj6WYVplp9Jv8O7tKWEx1YS6rY40AXJoLHmTi7Fmhz5CYlyH7nCB6Y5BI6IG7LaQ==",
+    "XrmFramework.Analyzers/2.2.95-ge3ced36e69": {
+      "sha512": "BOCaiS+jxHMPN7ChetARwP9Bhy3q9WJbTnj6CiS3yJmjO880hrTUUH/TvJZCylVPnickC3M4nvXW0jKspmX7kg==",
       "type": "package",
-      "path": "xrmframework.analyzers/2.2.91-g15c4fb8559",
+      "path": "xrmframework.analyzers/2.2.95-ge3ced36e69",
       "files": [
         ".nupkg.metadata",
         "analyzers/dotnet/cs/XrmFramework.Analyzers.deps.json",
         "analyzers/dotnet/cs/XrmFramework.Analyzers.dll",
         "analyzers/dotnet/cs/XrmFramework.Analyzers.pdb",
-        "xrmframework.analyzers.2.2.91-g15c4fb8559.nupkg.sha512",
+        "xrmframework.analyzers.2.2.95-ge3ced36e69.nupkg.sha512",
         "xrmframework.analyzers.nuspec"
       ]
     },
-    "XrmFramework.DeployUtils/2.2.91-g15c4fb8559": {
-      "sha512": "FNpBhuMqSg6OjU8wouDSwJVZVvFNYmUoIbYANAfnZL8kzV5gZulLLjsyxTHsGcKK7ePwUreA4Q0ZWgYdS2e/lg==",
+    "XrmFramework.DeployUtils/2.2.95-ge3ced36e69": {
+      "sha512": "FP5k6XZy9Thq5u1c0om510nRj9gKrNnyomC0Oc+2jNsVfn9F7XYhEHVKFzii8hNc4HHgtHdLvn4dt/uTz+hcag==",
       "type": "package",
-      "path": "xrmframework.deployutils/2.2.91-g15c4fb8559",
+      "path": "xrmframework.deployutils/2.2.95-ge3ced36e69",
       "files": [
         ".nupkg.metadata",
         "build/net462/XrmFramework.DeployUtils.props",
         "lib/net462/XrmFramework.DeployUtils.dll",
         "lib/net462/XrmFramework.DeployUtils.dll.config",
         "lib/net462/XrmFramework.DeployUtils.xml",
-        "xrmframework.deployutils.2.2.91-g15c4fb8559.nupkg.sha512",
+        "xrmframework.deployutils.2.2.95-ge3ced36e69.nupkg.sha512",
         "xrmframework.deployutils.nuspec"
       ]
     },
-    "XrmFramework.Plugin/2.2.91-g15c4fb8559": {
-      "sha512": "tWhHTm1PmUb0dCKeNOlrhCTHCMfS3bvUwoM5KD/+ZCQnj6xlRGFN43ukwEk4Ox1cuhdIlpjvh85UjTJvWvNMFg==",
+    "XrmFramework.Plugin/2.2.95-ge3ced36e69": {
+      "sha512": "UabrO6GGyNnrJcdxNaJYrHjiY51LdP7KHVq34JK/5E+QFr9erfOoe27UOCIz2eUx5hyjuVaW+ZM8T2lcx/sJYw==",
       "type": "package",
-      "path": "xrmframework.plugin/2.2.91-g15c4fb8559",
+      "path": "xrmframework.plugin/2.2.95-ge3ced36e69",
       "files": [
         ".nupkg.metadata",
         "build/net462/XrmFramework.Plugin.props",
@@ -3279,7 +3279,7 @@
         "contentFiles/cs/any/__Imports/XrmFramework.Plugin/Utils/LocalContext.partial.cs",
         "contentFiles/cs/any/__Imports/XrmFramework.Plugin/Utils/LocalWorkflowContext.cs",
         "lib/net462/_._",
-        "xrmframework.plugin.2.2.91-g15c4fb8559.nupkg.sha512",
+        "xrmframework.plugin.2.2.95-ge3ced36e69.nupkg.sha512",
         "xrmframework.plugin.nuspec"
       ]
     },
@@ -3294,8 +3294,8 @@
       "Microsoft.NETFramework.ReferenceAssemblies >= 1.0.2",
       "Nerdbank.GitVersioning >= 3.4.255",
       "NewSolution.Plugins >= 1.0.0",
-      "XrmFramework.Analyzers >= 2.2.91-g15c4fb8559",
-      "XrmFramework.DeployUtils >= 2.2.91-g15c4fb8559"
+      "XrmFramework.Analyzers >= 2.2.95-ge3ced36e69",
+      "XrmFramework.DeployUtils >= 2.2.95-ge3ced36e69"
     ]
   },
   "packageFolders": {
@@ -3361,11 +3361,11 @@
           },
           "XrmFramework.Analyzers": {
             "target": "Package",
-            "version": "[2.2.91-g15c4fb8559, )"
+            "version": "[2.2.95-ge3ced36e69, )"
           },
           "XrmFramework.DeployUtils": {
             "target": "Package",
-            "version": "[2.2.91-g15c4fb8559, )"
+            "version": "[2.2.95-ge3ced36e69, )"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"

@@ -11,8 +11,8 @@
 #pragma warning disable CA2243
 
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.9.6912")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.9+001beff4fb")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.10.24487")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.10+a75fa13c13")]
 #if NETSTANDARD || NETFRAMEWORK || NETCOREAPP
 [System.CodeDom.Compiler.GeneratedCode("Nerdbank.GitVersioning.Tasks","3.4.255.64262")]
 #endif
@@ -21,13 +21,13 @@
 #endif
 internal static partial class ThisAssembly {
     internal const string AssemblyConfiguration = "Debug";
-    internal const string AssemblyFileVersion = "1.0.9.6912";
-    internal const string AssemblyInformationalVersion = "1.0.9+001beff4fb";
+    internal const string AssemblyFileVersion = "1.0.10.24487";
+    internal const string AssemblyInformationalVersion = "1.0.10+a75fa13c13";
     internal const string AssemblyName = "Deploy.Webresources";
     internal const string AssemblyTitle = "Deploy.Webresources";
     internal const string AssemblyVersion = "1.0.0.0";
-    internal static readonly System.DateTime GitCommitDate = new System.DateTime(638502568980000000L, System.DateTimeKind.Utc);
-    internal const string GitCommitId = "001beff4fb4d27549c56731034afb541fe2bb044";
+    internal static readonly System.DateTime GitCommitDate = new System.DateTime(638503433110000000L, System.DateTimeKind.Utc);
+    internal const string GitCommitId = "a75fa13c13e526cecfa063e1601cb953c5c3da6d";
     internal const bool IsPrerelease = false;
     internal const bool IsPublicRelease = false;
     internal const string PublicKey = "00240000048000009400000006020000002400005253413100040000010001000d196816c56c09f53b4235803db7e452f0c1911a84b0f48ed49fc5b6cd544869a7e74fb971f388bd335b537b22e43a63101907a395e40bc0e434dc9a98c8f2d4e61e84f274cbf9bcb2b8415f582b26d5f2bd3d152d1736440ecd978b8216bb9a6ee429c9f84e87b00ca4e8fb747292d433a4017c8fa51456e80c6f12c95f59b4";

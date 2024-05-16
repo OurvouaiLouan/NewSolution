@@ -16,7 +16,8 @@
 
 
 	<ItemGroup>
-		<PackageReference Include="XrmFramework.Analyzers" Version="2.2.91-g15c4fb8559" />
+		<PackageReference Include="XrmFramework.Analyzers" Version="$(NuGetPackageVersion)" />
+		<PackageReference Include="XrmFramework.WebresourcesAnalyzers" Version="$(NuGetPackageVersion)" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -30,11 +31,6 @@
 	<ItemGroup>
 	  <Folder Include="TestGeneratedJsonOutput\" />
 	</ItemGroup>
-
-
-	<!--<Target Name="ChangeExtensionPostBuild" AfterTargets="PostBuildEvent">
-		<Exec Command="powershell -Command &quot;$files = Get-ChildItem -Path 'TestGeneratedJsonInput\'; foreach($file in $files){$newFileName=$file.FullName.Replace('.json.cs','.json'); Rename-Item -Path $file.FullName -NewName $newFileName; Move-Item -Path $newFileName 'TestGeneratedJsonOutput\'}&quot;" />
-	</Target>-->
 
 
 </Project>

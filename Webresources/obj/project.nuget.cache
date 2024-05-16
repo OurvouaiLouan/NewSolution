@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "AeIg9boH6hZ1BQ/5wy9r6sp7yfpG7AI677RL4wdekxvGvjAWCpHPghhto4TacXBPX/mgHRD8iCEs9d2jbj22AA==",
+  "dgSpecHash": "19hFSg8oRzwNvStm4MkL7v7RIaGW+2mmzOwpmnzetVjfflJswSYMHFsVo6Xe2M8+0gJATKGj+tsIKKkbgEU/7w==",
   "success": true,
   "projectFilePath": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Webresources\\Webresources.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net461\\1.0.2\\microsoft.netframework.referenceassemblies.net461.1.0.2.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\nerdbank.gitversioning\\3.4.255\\nerdbank.gitversioning.3.4.255.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.2.91-g15c4fb8559\\xrmframework.analyzers.2.2.91-g15c4fb8559.nupkg.sha512"
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.2.95-ge3ced36e69\\xrmframework.analyzers.2.2.95-ge3ced36e69.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.webresourcesanalyzers\\2.2.95-ge3ced36e69\\xrmframework.webresourcesanalyzers.2.2.95-ge3ced36e69.nupkg.sha512"
   ],
   "logs": []
 }

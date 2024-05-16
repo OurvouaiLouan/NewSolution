@@ -5,9 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="XrmFramework" Version="2.2.91-g15c4fb8559" />
-    <PackageReference Include="XrmFramework.Analyzers" Version="2.2.91-g15c4fb8559" />
-    <PackageReference Include="XrmFramework.Plugin" Version="2.2.91-g15c4fb8559" />
+    <PackageReference Include="XrmFramework" Version="$(NuGetPackageVersion)" />
+    <PackageReference Include="XrmFramework.Analyzers" Version="$(NuGetPackageVersion)" />
+    <PackageReference Include="XrmFramework.Plugin" Version="$(NuGetPackageVersion)" />
   </ItemGroup>
   
 </Project>

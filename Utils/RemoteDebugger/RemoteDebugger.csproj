@@ -11,8 +11,8 @@
 
     <ItemGroup>
         <PackageReference Include="Microsoft.Azure.Relay" Version="3.0.1" />
-        <PackageReference Include="XrmFramework.Analyzers" Version="2.2.91-g15c4fb8559" />
-        <PackageReference Include="XrmFramework.RemoteDebugger.Client" Version="2.2.91-g15c4fb8559" />
+        <PackageReference Include="XrmFramework.Analyzers" Version="$(NuGetPackageVersion)" />
+        <PackageReference Include="XrmFramework.RemoteDebugger.Client" Version="$(NuGetPackageVersion)" />
     </ItemGroup>
 
     <ItemGroup>
