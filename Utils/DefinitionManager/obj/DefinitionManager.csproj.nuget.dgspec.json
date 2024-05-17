@@ -198,15 +198,15 @@
             },
             "XrmFramework": {
               "target": "Package",
-              "version": "[2.2.95-ge3ced36e69, )"
+              "version": "[2.2.96-g83b7b96419, )"
             },
             "XrmFramework.Analyzers": {
               "target": "Package",
-              "version": "[2.2.95-ge3ced36e69, )"
+              "version": "[2.2.96-g83b7b96419, )"
             },
             "XrmFramework.Plugin": {
               "target": "Package",
-              "version": "[2.2.95-ge3ced36e69, )"
+              "version": "[2.2.96-g83b7b96419, )"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
@@ -276,11 +276,11 @@
             },
             "XrmFramework.Analyzers": {
               "target": "Package",
-              "version": "[2.2.95-ge3ced36e69, )"
+              "version": "[2.2.96-g83b7b96419, )"
             },
             "XrmFramework.DefinitionManager": {
               "target": "Package",
-              "version": "[2.2.95-ge3ced36e69, )"
+              "version": "[2.2.96-g83b7b96419, )"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
