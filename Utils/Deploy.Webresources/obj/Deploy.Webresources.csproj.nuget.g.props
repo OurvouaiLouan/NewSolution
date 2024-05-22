@@ -13,6 +13,6 @@
     <SourceRoot Include="C:\Users\l.ourvouai\.nuget\packages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)xrmframework.deployutils\2.2.96-g83b7b96419\build\net462\XrmFramework.DeployUtils.props" Condition="Exists('$(NuGetPackageRoot)xrmframework.deployutils\2.2.96-g83b7b96419\build\net462\XrmFramework.DeployUtils.props')" />
+    <Import Project="$(NuGetPackageRoot)xrmframework.deployutils\2.2.97-g9daf06b54d\build\net462\XrmFramework.DeployUtils.props" Condition="Exists('$(NuGetPackageRoot)xrmframework.deployutils\2.2.97-g9daf06b54d\build\net462\XrmFramework.DeployUtils.props')" />
   </ImportGroup>
 </Project>

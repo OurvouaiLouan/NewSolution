@@ -60,11 +60,11 @@
             },
             "XrmFramework.Analyzers": {
               "target": "Package",
-              "version": "[2.2.96-g83b7b96419, )"
+              "version": "[2.2.97-g9daf06b54d, )"
             },
             "XrmFramework.WebresourcesAnalyzers": {
               "target": "Package",
-              "version": "[2.2.96-g83b7b96419, )"
+              "version": "[2.2.97-g9daf06b54d, )"
             }
           },
           "imports": [

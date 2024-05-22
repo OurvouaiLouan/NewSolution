@@ -5,7 +5,7 @@
     <AssemblyOriginatorKeyFile>$(RootFolder)/NewSolution.snk</AssemblyOriginatorKeyFile>
 
     <LangVersion>latest</LangVersion>
-	<NuGetPackageVersion>2.2.96-g83b7b96419</NuGetPackageVersion>
+	<NuGetPackageVersion>2.2.97-g9daf06b54d</NuGetPackageVersion>
 
     <XrmFrameworkCoreProjectName>NewSolution.Core</XrmFrameworkCoreProjectName>
   </PropertyGroup>
@@ -21,8 +21,6 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
     </PackageReference>
   </ItemGroup>
-	
-	
 	
 	
 </Project>

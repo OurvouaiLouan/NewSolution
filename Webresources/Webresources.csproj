@@ -1,14 +1,12 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
-  <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
-    <Nullable>enable</Nullable>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <LangVersion>preview</LangVersion>
-  </PropertyGroup>
-
-
-
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<LangVersion>preview</LangVersion>
+	</PropertyGroup>
+	
 	<PropertyGroup>
 		<EmitCompilerGeneratedFiles>true</EmitCompilerGeneratedFiles>
 		<CompilerGeneratedFilesOutputPath>GeneratedJson</CompilerGeneratedFilesOutputPath>
@@ -16,8 +14,10 @@
 
 
 	<ItemGroup>
-		<PackageReference Include="XrmFramework.Analyzers" Version="$(NuGetPackageVersion)" />
-		<PackageReference Include="XrmFramework.WebresourcesAnalyzers" Version="$(NuGetPackageVersion)" />
+		<PackageReference Include="XrmFramework.Analyzers" 
+						  Version="$(NuGetPackageVersion)" />
+		<PackageReference Include="XrmFramework.WebresourcesAnalyzers" 
+						  Version="$(NuGetPackageVersion)" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -26,10 +26,9 @@
 
 		<Compile Remove="**/GeneratedJson/**/*.cs" />
 		<None Include="**/GeneratedJson/**/*.cs" />
-	</ItemGroup>
-
-	<ItemGroup>
-	  <Folder Include="TestGeneratedJsonOutput\" />
+		
+		<Folder Include="TestGeneratedJsonOutput\" />
+		<Folder Include="TestGeneratedJsonInput\" />
 	</ItemGroup>
 
 

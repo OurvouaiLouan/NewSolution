@@ -6,12 +6,10 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Webresources/1.0.11-gd6906fffa1": {
+      "Webresources/1.0.12-g2c22de93f0": {
         "dependencies": {
           "Microsoft.NETFramework.ReferenceAssemblies": "1.0.2",
-          "Nerdbank.GitVersioning": "3.4.255",
-          "XrmFramework.Analyzers": "2.2.96-g83b7b96419",
-          "XrmFramework.WebresourcesAnalyzers": "2.2.96-g83b7b96419"
+          "Nerdbank.GitVersioning": "3.4.255"
         },
         "runtime": {
           "Webresources.dll": {}
@@ -23,13 +21,11 @@
         }
       },
       "Microsoft.NETFramework.ReferenceAssemblies.net461/1.0.2": {},
-      "Nerdbank.GitVersioning/3.4.255": {},
-      "XrmFramework.Analyzers/2.2.96-g83b7b96419": {},
-      "XrmFramework.WebresourcesAnalyzers/2.2.96-g83b7b96419": {}
+      "Nerdbank.GitVersioning/3.4.255": {}
     }
   },
   "libraries": {
-    "Webresources/1.0.11-gd6906fffa1": {
+    "Webresources/1.0.12-g2c22de93f0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -54,20 +50,6 @@
       "sha512": "sha512-7aJa6+VzdKNDVJqGIWGtvIDh2HsIx8DIDfUg4yWViXc798awhSohPMk1oiAZqSntnrKThKJtn4vAMRdsCj8dtg==",
       "path": "nerdbank.gitversioning/3.4.255",
       "hashPath": "nerdbank.gitversioning.3.4.255.nupkg.sha512"
-    },
-    "XrmFramework.Analyzers/2.2.96-g83b7b96419": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-1Pl8of7tOhbHuRZj8ZPw19vp8Nc3WO1QBJsgkDWaD2Dyd6Kpetbezlx1btOoHiJOjAND4FFrGeVel2pVmcZKeg==",
-      "path": "xrmframework.analyzers/2.2.96-g83b7b96419",
-      "hashPath": "xrmframework.analyzers.2.2.96-g83b7b96419.nupkg.sha512"
-    },
-    "XrmFramework.WebresourcesAnalyzers/2.2.96-g83b7b96419": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-liu8MSFB4OTz6OMA2fmHh+y4m+PTIriy68LKpSAr+uOiv/8ER5x6Qn8oqM5vWJMdiwSpgrKoAK4TPkxacUKT/A==",
-      "path": "xrmframework.webresourcesanalyzers/2.2.96-g83b7b96419",
-      "hashPath": "xrmframework.webresourcesanalyzers.2.2.96-g83b7b96419.nupkg.sha512"
     }
   }
 }

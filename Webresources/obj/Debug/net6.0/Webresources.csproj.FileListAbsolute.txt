@@ -1,15 +1,3 @@
-C:\Users\l.ourvouai\source\repos\NewSolution\Webresources\bin\Debug\net6.0\TestGeneratedJsonInput\TestA.json
-C:\Users\l.ourvouai\source\repos\NewSolution\Webresources\bin\Debug\net6.0\TestGeneratedJsonOutput\Test1.json
-C:\Users\l.ourvouai\source\repos\NewSolution\Webresources\bin\Debug\net6.0\TestGeneratedJsonOutput\TestA.json
-C:\Users\l.ourvouai\source\repos\NewSolution\Webresources\bin\Debug\net6.0\TestGeneratedJsonOutput\TestB.json
-C:\Users\l.ourvouai\source\repos\NewSolution\Webresources\bin\Debug\net6.0\TestGeneratedJsonOutput\TestC.json
-C:\Users\l.ourvouai\source\repos\NewSolution\Webresources\bin\Debug\net6.0\TestGeneratedJsonOutput\TestD.json
-C:\Users\l.ourvouai\source\repos\NewSolution\Webresources\bin\Debug\net6.0\TestGeneratedJsonOutput\TestE.json
-C:\Users\l.ourvouai\source\repos\NewSolution\Webresources\bin\Debug\net6.0\TestGeneratedJsonOutput\TestF.json
-C:\Users\l.ourvouai\source\repos\NewSolution\Webresources\bin\Debug\net6.0\TestGeneratedJsonOutput\TestG.json
-C:\Users\l.ourvouai\source\repos\NewSolution\Webresources\bin\Debug\net6.0\TestGeneratedJsonOutput\TestH.json
-C:\Users\l.ourvouai\source\repos\NewSolution\Webresources\bin\Debug\net6.0\TestGeneratedJsonOutput\TestI.json
-C:\Users\l.ourvouai\source\repos\NewSolution\Webresources\bin\Debug\net6.0\TestGeneratedJsonOutput\TestJ.json
 C:\Users\l.ourvouai\source\repos\NewSolution\Webresources\bin\Debug\net6.0\Webresources.exe
 C:\Users\l.ourvouai\source\repos\NewSolution\Webresources\bin\Debug\net6.0\Webresources.deps.json
 C:\Users\l.ourvouai\source\repos\NewSolution\Webresources\bin\Debug\net6.0\Webresources.runtimeconfig.json
