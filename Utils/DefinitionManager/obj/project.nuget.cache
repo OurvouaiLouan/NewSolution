@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hwAe7TVo7Sv3nsZyaTH6EMoleXc1wy3H51+0g7b30wbcr5UVtbPjsRlKfQF3dKEuu2+6VOcBymUoBEv2dJ+ong==",
+  "dgSpecHash": "RtZlo1+G4umqXpDm20KFaeBfKSqWLiys2wgBWRiXEODFdzKK7Je/dj5UGPxaJjIER/LbZK6avdGvs/3Fsm/1ZQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Utils\\DefinitionManager\\DefinitionManager.csproj",
   "expectedPackageFiles": [
@@ -39,12 +39,12 @@
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework\\2.2.98-gb15a877850\\xrmframework.2.2.98-gb15a877850.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.2.98-gb15a877850\\xrmframework.analyzers.2.2.98-gb15a877850.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework\\2.2.99-g42f4a02029\\xrmframework.2.2.99-g42f4a02029.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.2.99-g42f4a02029\\xrmframework.analyzers.2.2.99-g42f4a02029.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.coreproject\\2.2.91-g15c4fb8559\\xrmframework.coreproject.2.2.91-g15c4fb8559.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.definitionmanager\\2.2.98-gb15a877850\\xrmframework.definitionmanager.2.2.98-gb15a877850.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.deployutils\\2.2.98-gb15a877850\\xrmframework.deployutils.2.2.98-gb15a877850.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.plugin\\2.2.98-gb15a877850\\xrmframework.plugin.2.2.98-gb15a877850.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.definitionmanager\\2.2.99-g42f4a02029\\xrmframework.definitionmanager.2.2.99-g42f4a02029.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.deployutils\\2.2.99-g42f4a02029\\xrmframework.deployutils.2.2.99-g42f4a02029.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.plugin\\2.2.99-g42f4a02029\\xrmframework.plugin.2.2.99-g42f4a02029.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.webresourcesanalyzers\\2.2.90-g9e01b59ea1\\xrmframework.webresourcesanalyzers.2.2.90-g9e01b59ea1.nupkg.sha512"
   ],
   "logs": []

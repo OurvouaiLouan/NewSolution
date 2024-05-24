@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Webresources/1.0.13-ga14780bf93": {
+      "Webresources/1.0.14-g55a375a530": {
         "dependencies": {
           "Microsoft.NETFramework.ReferenceAssemblies": "1.0.2",
           "Nerdbank.GitVersioning": "3.4.255",
-          "XrmFramework.Analyzers": "2.2.98-gb15a877850",
-          "XrmFramework.WebresourcesAnalyzers": "2.2.98-gb15a877850"
+          "XrmFramework.Analyzers": "2.2.99-g42f4a02029",
+          "XrmFramework.WebresourcesAnalyzers": "2.2.99-g42f4a02029"
         },
         "runtime": {
           "Webresources.dll": {}
@@ -24,12 +24,12 @@
       },
       "Microsoft.NETFramework.ReferenceAssemblies.net461/1.0.2": {},
       "Nerdbank.GitVersioning/3.4.255": {},
-      "XrmFramework.Analyzers/2.2.98-gb15a877850": {},
-      "XrmFramework.WebresourcesAnalyzers/2.2.98-gb15a877850": {}
+      "XrmFramework.Analyzers/2.2.99-g42f4a02029": {},
+      "XrmFramework.WebresourcesAnalyzers/2.2.99-g42f4a02029": {}
     }
   },
   "libraries": {
-    "Webresources/1.0.13-ga14780bf93": {
+    "Webresources/1.0.14-g55a375a530": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -55,19 +55,19 @@
       "path": "nerdbank.gitversioning/3.4.255",
       "hashPath": "nerdbank.gitversioning.3.4.255.nupkg.sha512"
     },
-    "XrmFramework.Analyzers/2.2.98-gb15a877850": {
+    "XrmFramework.Analyzers/2.2.99-g42f4a02029": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-XDRPWv+ucNksDiKyrLM4ggHuGJgVqGZrIX+HpaFe7X2RAxlcnB9t+3m+qUUWBhjG+VqS7Qz1ghVwRQDW8NE83Q==",
-      "path": "xrmframework.analyzers/2.2.98-gb15a877850",
-      "hashPath": "xrmframework.analyzers.2.2.98-gb15a877850.nupkg.sha512"
+      "sha512": "sha512-vIvWGg9oFgf7JaIBwFNkUCO45xIt3JkGpnyL/lBdwnhH/YjNCCH8O67LrcdpbmrEpKcxI7SFGNs3xRlc90VeUw==",
+      "path": "xrmframework.analyzers/2.2.99-g42f4a02029",
+      "hashPath": "xrmframework.analyzers.2.2.99-g42f4a02029.nupkg.sha512"
     },
-    "XrmFramework.WebresourcesAnalyzers/2.2.98-gb15a877850": {
+    "XrmFramework.WebresourcesAnalyzers/2.2.99-g42f4a02029": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-7pBEHz0sZ0nk3lFMJaUbJ1X0CsQuYTu7SywiKpUWan495T8e0T19asPv3hFLtrBUerH4E/9gHACXlsAl/R67xg==",
-      "path": "xrmframework.webresourcesanalyzers/2.2.98-gb15a877850",
-      "hashPath": "xrmframework.webresourcesanalyzers.2.2.98-gb15a877850.nupkg.sha512"
+      "sha512": "sha512-dG4rdNiqUPsFC6WPtQKAv0RFxb7qI2XxW6xP5YwWusscSZ68gHgGZQu7VkLr/P3QiNQUtVLSzlOuXmYP94Kr8A==",
+      "path": "xrmframework.webresourcesanalyzers/2.2.99-g42f4a02029",
+      "hashPath": "xrmframework.webresourcesanalyzers.2.2.99-g42f4a02029.nupkg.sha512"
     }
   }
 }

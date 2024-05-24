@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4F5nqwelTePrQCyAzSRWmsmE+/dFdt4rR8OMzpX9b0dNCl2YUkM1RuwNLzce8Bm6yRaBuryx6bpA2Zws7H+c7Q==",
+  "dgSpecHash": "w4U2M9MMMlCmIosmVPhoKf74TqWW3XpAQWFOuXbBHO5XLFUgPj/t4W3IBY4npPovWoM/rsQWEwXZ8ADEF18kvQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Utils\\Deploy.Webresources\\Deploy.Webresources.csproj",
   "expectedPackageFiles": [
@@ -24,8 +24,8 @@
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.2.98-gb15a877850\\xrmframework.analyzers.2.2.98-gb15a877850.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.deployutils\\2.2.98-gb15a877850\\xrmframework.deployutils.2.2.98-gb15a877850.nupkg.sha512"
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.2.99-g42f4a02029\\xrmframework.analyzers.2.2.99-g42f4a02029.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.deployutils\\2.2.99-g42f4a02029\\xrmframework.deployutils.2.2.99-g42f4a02029.nupkg.sha512"
   ],
   "logs": []
 }

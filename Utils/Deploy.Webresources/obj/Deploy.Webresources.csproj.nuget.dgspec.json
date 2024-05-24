@@ -60,11 +60,11 @@
             },
             "XrmFramework.Analyzers": {
               "target": "Package",
-              "version": "[2.2.98-gb15a877850, )"
+              "version": "[2.2.99-g42f4a02029, )"
             },
             "XrmFramework.DeployUtils": {
               "target": "Package",
-              "version": "[2.2.98-gb15a877850, )"
+              "version": "[2.2.99-g42f4a02029, )"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"

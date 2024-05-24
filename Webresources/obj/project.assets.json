@@ -23,10 +23,10 @@
           "buildCrossTargeting/Nerdbank.GitVersioning.targets": {}
         }
       },
-      "XrmFramework.Analyzers/2.2.98-gb15a877850": {
+      "XrmFramework.Analyzers/2.2.99-g42f4a02029": {
         "type": "package"
       },
-      "XrmFramework.WebresourcesAnalyzers/2.2.98-gb15a877850": {
+      "XrmFramework.WebresourcesAnalyzers/2.2.99-g42f4a02029": {
         "type": "package"
       }
     }
@@ -421,23 +421,23 @@
         "readme.txt"
       ]
     },
-    "XrmFramework.Analyzers/2.2.98-gb15a877850": {
-      "sha512": "XDRPWv+ucNksDiKyrLM4ggHuGJgVqGZrIX+HpaFe7X2RAxlcnB9t+3m+qUUWBhjG+VqS7Qz1ghVwRQDW8NE83Q==",
+    "XrmFramework.Analyzers/2.2.99-g42f4a02029": {
+      "sha512": "vIvWGg9oFgf7JaIBwFNkUCO45xIt3JkGpnyL/lBdwnhH/YjNCCH8O67LrcdpbmrEpKcxI7SFGNs3xRlc90VeUw==",
       "type": "package",
-      "path": "xrmframework.analyzers/2.2.98-gb15a877850",
+      "path": "xrmframework.analyzers/2.2.99-g42f4a02029",
       "files": [
         ".nupkg.metadata",
         "analyzers/dotnet/cs/XrmFramework.Analyzers.deps.json",
         "analyzers/dotnet/cs/XrmFramework.Analyzers.dll",
         "analyzers/dotnet/cs/XrmFramework.Analyzers.pdb",
-        "xrmframework.analyzers.2.2.98-gb15a877850.nupkg.sha512",
+        "xrmframework.analyzers.2.2.99-g42f4a02029.nupkg.sha512",
         "xrmframework.analyzers.nuspec"
       ]
     },
-    "XrmFramework.WebresourcesAnalyzers/2.2.98-gb15a877850": {
-      "sha512": "7pBEHz0sZ0nk3lFMJaUbJ1X0CsQuYTu7SywiKpUWan495T8e0T19asPv3hFLtrBUerH4E/9gHACXlsAl/R67xg==",
+    "XrmFramework.WebresourcesAnalyzers/2.2.99-g42f4a02029": {
+      "sha512": "dG4rdNiqUPsFC6WPtQKAv0RFxb7qI2XxW6xP5YwWusscSZ68gHgGZQu7VkLr/P3QiNQUtVLSzlOuXmYP94Kr8A==",
       "type": "package",
-      "path": "xrmframework.webresourcesanalyzers/2.2.98-gb15a877850",
+      "path": "xrmframework.webresourcesanalyzers/2.2.99-g42f4a02029",
       "files": [
         ".nupkg.metadata",
         "analyzers/dotnet/cs/XrmFramework.Analyzers.dll",
@@ -445,7 +445,7 @@
         "analyzers/dotnet/cs/XrmFramework.WebresourcesAnalyzers.deps.json",
         "analyzers/dotnet/cs/XrmFramework.WebresourcesAnalyzers.dll",
         "analyzers/dotnet/cs/XrmFramework.WebresourcesAnalyzers.pdb",
-        "xrmframework.webresourcesanalyzers.2.2.98-gb15a877850.nupkg.sha512",
+        "xrmframework.webresourcesanalyzers.2.2.99-g42f4a02029.nupkg.sha512",
         "xrmframework.webresourcesanalyzers.nuspec"
       ]
     }
@@ -454,8 +454,8 @@
     "net6.0": [
       "Microsoft.NETFramework.ReferenceAssemblies >= 1.0.2",
       "Nerdbank.GitVersioning >= 3.4.255",
-      "XrmFramework.Analyzers >= 2.2.98-gb15a877850",
-      "XrmFramework.WebresourcesAnalyzers >= 2.2.98-gb15a877850"
+      "XrmFramework.Analyzers >= 2.2.99-g42f4a02029",
+      "XrmFramework.WebresourcesAnalyzers >= 2.2.99-g42f4a02029"
     ]
   },
   "packageFolders": {
@@ -517,11 +517,11 @@
           },
           "XrmFramework.Analyzers": {
             "target": "Package",
-            "version": "[2.2.98-gb15a877850, )"
+            "version": "[2.2.99-g42f4a02029, )"
           },
           "XrmFramework.WebresourcesAnalyzers": {
             "target": "Package",
-            "version": "[2.2.98-gb15a877850, )"
+            "version": "[2.2.99-g42f4a02029, )"
           }
         },
         "imports": [
