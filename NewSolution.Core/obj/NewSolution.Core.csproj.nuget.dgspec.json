@@ -82,7 +82,7 @@
             },
             "XrmFramework.WebresourcesAnalyzers": {
               "target": "Package",
-              "version": "[2.2.90-g9e01b59ea1, )"
+              "version": "[2.2.99-g42f4a02029, )"
             }
           },
           "imports": [
@@ -135,7 +135,7 @@
             },
             "XrmFramework.WebresourcesAnalyzers": {
               "target": "Package",
-              "version": "[2.2.90-g9e01b59ea1, )"
+              "version": "[2.2.99-g42f4a02029, )"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"

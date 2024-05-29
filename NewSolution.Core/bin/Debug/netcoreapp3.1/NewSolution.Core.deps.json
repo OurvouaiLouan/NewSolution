@@ -6,15 +6,14 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "NewSolution.Core/1.0.14-g55a375a530": {
+      "NewSolution.Core/1.0.15-g62e60dafc1": {
         "dependencies": {
           "Microsoft.NETFramework.ReferenceAssemblies": "1.0.2",
           "Nerdbank.GitVersioning": "3.4.255",
           "Newtonsoft.Json": "12.0.3",
           "XrmFramework": "2.2.91-g15c4fb8559",
           "XrmFramework.Analyzers": "2.2.91-g15c4fb8559",
-          "XrmFramework.CoreProject": "2.2.91-g15c4fb8559",
-          "XrmFramework.WebresourcesAnalyzers": "2.2.90-g9e01b59ea1"
+          "XrmFramework.CoreProject": "2.2.91-g15c4fb8559"
         },
         "runtime": {
           "NewSolution.Core.dll": {}
@@ -1087,12 +1086,11 @@
           "Newtonsoft.Json": "12.0.3",
           "XrmFramework": "2.2.91-g15c4fb8559"
         }
-      },
-      "XrmFramework.WebresourcesAnalyzers/2.2.90-g9e01b59ea1": {}
+      }
     }
   },
   "libraries": {
-    "NewSolution.Core/1.0.14-g55a375a530": {
+    "NewSolution.Core/1.0.15-g62e60dafc1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1831,13 +1829,6 @@
       "sha512": "sha512-AdcZ4Cz3vkkCuTXhe4plv7XZwF5/bqRAkonh2cyKAPu8tTpS13aUwMAzWxsVM+KvLCFHrVBFaArh8Rt1ZBelsw==",
       "path": "xrmframework.coreproject/2.2.91-g15c4fb8559",
       "hashPath": "xrmframework.coreproject.2.2.91-g15c4fb8559.nupkg.sha512"
-    },
-    "XrmFramework.WebresourcesAnalyzers/2.2.90-g9e01b59ea1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-jzFM+Lsm79o4UBdtrQ8rns1bptKJ19tabd12Ii4SrK+sMCCdhF6v0K3vc/suyW/bwjyDuLygjoQwbBJ0ZKlKlQ==",
-      "path": "xrmframework.webresourcesanalyzers/2.2.90-g9e01b59ea1",
-      "hashPath": "xrmframework.webresourcesanalyzers.2.2.90-g9e01b59ea1.nupkg.sha512"
     }
   }
 }

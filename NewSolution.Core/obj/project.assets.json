@@ -2344,7 +2344,7 @@
           "build/netcoreapp3.1/XrmFramework.CoreProject.targets": {}
         }
       },
-      "XrmFramework.WebresourcesAnalyzers/2.2.90-g9e01b59ea1": {
+      "XrmFramework.WebresourcesAnalyzers/2.2.99-g42f4a02029": {
         "type": "package"
       }
     },
@@ -3618,7 +3618,7 @@
           "build/net462/XrmFramework.CoreProject.targets": {}
         }
       },
-      "XrmFramework.WebresourcesAnalyzers/2.2.90-g9e01b59ea1": {
+      "XrmFramework.WebresourcesAnalyzers/2.2.99-g42f4a02029": {
         "type": "package"
       }
     }
@@ -9203,10 +9203,10 @@
         "xrmframework.coreproject.nuspec"
       ]
     },
-    "XrmFramework.WebresourcesAnalyzers/2.2.90-g9e01b59ea1": {
-      "sha512": "jzFM+Lsm79o4UBdtrQ8rns1bptKJ19tabd12Ii4SrK+sMCCdhF6v0K3vc/suyW/bwjyDuLygjoQwbBJ0ZKlKlQ==",
+    "XrmFramework.WebresourcesAnalyzers/2.2.99-g42f4a02029": {
+      "sha512": "dG4rdNiqUPsFC6WPtQKAv0RFxb7qI2XxW6xP5YwWusscSZ68gHgGZQu7VkLr/P3QiNQUtVLSzlOuXmYP94Kr8A==",
       "type": "package",
-      "path": "xrmframework.webresourcesanalyzers/2.2.90-g9e01b59ea1",
+      "path": "xrmframework.webresourcesanalyzers/2.2.99-g42f4a02029",
       "files": [
         ".nupkg.metadata",
         "analyzers/dotnet/cs/XrmFramework.Analyzers.dll",
@@ -9214,7 +9214,7 @@
         "analyzers/dotnet/cs/XrmFramework.WebresourcesAnalyzers.deps.json",
         "analyzers/dotnet/cs/XrmFramework.WebresourcesAnalyzers.dll",
         "analyzers/dotnet/cs/XrmFramework.WebresourcesAnalyzers.pdb",
-        "xrmframework.webresourcesanalyzers.2.2.90-g9e01b59ea1.nupkg.sha512",
+        "xrmframework.webresourcesanalyzers.2.2.99-g42f4a02029.nupkg.sha512",
         "xrmframework.webresourcesanalyzers.nuspec"
       ]
     }
@@ -9227,7 +9227,7 @@
       "XrmFramework >= 2.2.91-g15c4fb8559",
       "XrmFramework.Analyzers >= 2.2.91-g15c4fb8559",
       "XrmFramework.CoreProject >= 2.2.91-g15c4fb8559",
-      "XrmFramework.WebresourcesAnalyzers >= 2.2.90-g9e01b59ea1"
+      "XrmFramework.WebresourcesAnalyzers >= 2.2.99-g42f4a02029"
     ],
     ".NETFramework,Version=v4.6.2": [
       "Microsoft.NETFramework.ReferenceAssemblies >= 1.0.2",
@@ -9236,7 +9236,7 @@
       "XrmFramework >= 2.2.91-g15c4fb8559",
       "XrmFramework.Analyzers >= 2.2.91-g15c4fb8559",
       "XrmFramework.CoreProject >= 2.2.91-g15c4fb8559",
-      "XrmFramework.WebresourcesAnalyzers >= 2.2.90-g9e01b59ea1"
+      "XrmFramework.WebresourcesAnalyzers >= 2.2.99-g42f4a02029"
     ]
   },
   "packageFolders": {
@@ -9320,7 +9320,7 @@
           },
           "XrmFramework.WebresourcesAnalyzers": {
             "target": "Package",
-            "version": "[2.2.90-g9e01b59ea1, )"
+            "version": "[2.2.99-g42f4a02029, )"
           }
         },
         "imports": [
@@ -9373,7 +9373,7 @@
           },
           "XrmFramework.WebresourcesAnalyzers": {
             "target": "Package",
-            "version": "[2.2.90-g9e01b59ea1, )"
+            "version": "[2.2.99-g42f4a02029, )"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"

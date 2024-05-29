@@ -1,22 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "L2hOyQLM1lPdGsuqugI7AypORbHIn/n8E+m/8oQzf/yOk2/N7Iwm4UYn2flxhjXrcmHQPo8cwgn0BV8wyP4s1A==",
+  "dgSpecHash": "8z6YKqBO30qWXhbejKpgy5fhuL7tV1P5hLrwLzrfTjXetsG+QFvun330KE3sTDADVtEUaeF7M76LVDKvp41oHA==",
   "success": true,
   "projectFilePath": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Utils\\Deploy.Plugins\\Deploy.Plugins.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.crmsdk.coreassemblies\\9.0.2.45\\microsoft.crmsdk.coreassemblies.9.0.2.45.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.crmsdk.coreassemblies\\9.0.2.50\\microsoft.crmsdk.coreassemblies.9.0.2.50.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.crmsdk.deployment\\9.0.2.34\\microsoft.crmsdk.deployment.9.0.2.34.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.crmsdk.workflow\\9.0.2.45\\microsoft.crmsdk.workflow.9.0.2.45.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.crmsdk.xrmtooling.coreassembly\\9.1.0.92\\microsoft.crmsdk.xrmtooling.coreassembly.9.1.0.92.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.crmsdk.workflow\\9.0.2.50\\microsoft.crmsdk.workflow.9.0.2.50.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.crmsdk.xrmtooling.coreassembly\\9.1.1.41\\microsoft.crmsdk.xrmtooling.coreassembly.9.1.1.41.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.identitymodel.clients.activedirectory\\3.19.8\\microsoft.identitymodel.clients.activedirectory.3.19.8.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.2\\microsoft.netframework.referenceassemblies.net462.1.0.2.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.20\\microsoft.rest.clientruntime.2.3.20.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.24\\microsoft.rest.clientruntime.2.3.24.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\nerdbank.gitversioning\\3.4.255\\nerdbank.gitversioning.3.4.255.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
@@ -32,13 +32,58 @@
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.text.json\\6.0.7\\system.text.json.6.0.7.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework\\2.2.99-g42f4a02029\\xrmframework.2.2.99-g42f4a02029.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.2.99-g42f4a02029\\xrmframework.analyzers.2.2.99-g42f4a02029.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.deployutils\\2.2.99-g42f4a02029\\xrmframework.deployutils.2.2.99-g42f4a02029.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.plugin\\2.2.99-g42f4a02029\\xrmframework.plugin.2.2.99-g42f4a02029.nupkg.sha512"
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework\\2.3.1\\xrmframework.2.3.1.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.3.1\\xrmframework.analyzers.2.3.1.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.deployutils\\2.3.1\\xrmframework.deployutils.2.3.1.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.plugin\\2.3.1\\xrmframework.plugin.2.3.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "NewSolution.Plugins depends on XrmFramework (>= 2.2.101-g4f31691d5c) but XrmFramework 2.2.101-g4f31691d5c was not found. An approximate best match of XrmFramework 2.3.1 was resolved.",
+      "libraryId": "XrmFramework",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.2",
+        ".NETFramework,Version=v4.6.2/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Deploy.Plugins depends on XrmFramework.Analyzers (>= 2.2.101-g4f31691d5c) but XrmFramework.Analyzers 2.2.101-g4f31691d5c was not found. An approximate best match of XrmFramework.Analyzers 2.3.1 was resolved.",
+      "libraryId": "XrmFramework.Analyzers",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.2",
+        ".NETFramework,Version=v4.6.2/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Deploy.Plugins depends on XrmFramework.DeployUtils (>= 2.2.101-g4f31691d5c) but XrmFramework.DeployUtils 2.2.101-g4f31691d5c was not found. An approximate best match of XrmFramework.DeployUtils 2.3.1 was resolved.",
+      "libraryId": "XrmFramework.DeployUtils",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.2",
+        ".NETFramework,Version=v4.6.2/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "NewSolution.Plugins depends on XrmFramework.Plugin (>= 2.2.101-g4f31691d5c) but XrmFramework.Plugin 2.2.101-g4f31691d5c was not found. An approximate best match of XrmFramework.Plugin 2.3.1 was resolved.",
+      "libraryId": "XrmFramework.Plugin",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.2",
+        ".NETFramework,Version=v4.6.2/win7-x86"
+      ]
+    }
+  ]
 }

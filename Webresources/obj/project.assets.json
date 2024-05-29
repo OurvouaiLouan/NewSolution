@@ -23,7 +23,7 @@
           "buildCrossTargeting/Nerdbank.GitVersioning.targets": {}
         }
       },
-      "XrmFramework.Analyzers/2.2.99-g42f4a02029": {
+      "XrmFramework.Analyzers/2.3.1": {
         "type": "package"
       },
       "XrmFramework.WebresourcesAnalyzers/2.2.99-g42f4a02029": {
@@ -421,16 +421,17 @@
         "readme.txt"
       ]
     },
-    "XrmFramework.Analyzers/2.2.99-g42f4a02029": {
-      "sha512": "vIvWGg9oFgf7JaIBwFNkUCO45xIt3JkGpnyL/lBdwnhH/YjNCCH8O67LrcdpbmrEpKcxI7SFGNs3xRlc90VeUw==",
+    "XrmFramework.Analyzers/2.3.1": {
+      "sha512": "E7BUfbEZEQmF2Dfb/8BtbPE8e8Pb/5JezKveM838rLN11wBA0eKrLEqeKR5eOHyEScIH1KCOH7E4vDgpE5rCmA==",
       "type": "package",
-      "path": "xrmframework.analyzers/2.2.99-g42f4a02029",
+      "path": "xrmframework.analyzers/2.3.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "analyzers/dotnet/cs/XrmFramework.Analyzers.deps.json",
         "analyzers/dotnet/cs/XrmFramework.Analyzers.dll",
         "analyzers/dotnet/cs/XrmFramework.Analyzers.pdb",
-        "xrmframework.analyzers.2.2.99-g42f4a02029.nupkg.sha512",
+        "xrmframework.analyzers.2.3.1.nupkg.sha512",
         "xrmframework.analyzers.nuspec"
       ]
     },
@@ -454,7 +455,7 @@
     "net6.0": [
       "Microsoft.NETFramework.ReferenceAssemblies >= 1.0.2",
       "Nerdbank.GitVersioning >= 3.4.255",
-      "XrmFramework.Analyzers >= 2.2.99-g42f4a02029",
+      "XrmFramework.Analyzers >= 2.2.101-g4f31691d5c",
       "XrmFramework.WebresourcesAnalyzers >= 2.2.99-g42f4a02029"
     ]
   },
@@ -517,7 +518,7 @@
           },
           "XrmFramework.Analyzers": {
             "target": "Package",
-            "version": "[2.2.99-g42f4a02029, )"
+            "version": "[2.2.101-g4f31691d5c, )"
           },
           "XrmFramework.WebresourcesAnalyzers": {
             "target": "Package",
@@ -546,5 +547,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Webresources depends on XrmFramework.Analyzers (>= 2.2.101-g4f31691d5c) but XrmFramework.Analyzers 2.2.101-g4f31691d5c was not found. An approximate best match of XrmFramework.Analyzers 2.3.1 was resolved.",
+      "libraryId": "XrmFramework.Analyzers",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

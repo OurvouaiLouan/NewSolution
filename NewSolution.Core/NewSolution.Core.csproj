@@ -8,7 +8,7 @@
 		<PackageReference Include="XrmFramework" Version="2.2.91-g15c4fb8559" />
 		<PackageReference Include="XrmFramework.Analyzers" Version="2.2.91-g15c4fb8559" />
 		<PackageReference Include="XrmFramework.CoreProject" Version="2.2.91-g15c4fb8559" />
-		<PackageReference Include="XrmFramework.WebresourcesAnalyzers" Version="2.2.90-g9e01b59ea1" />
+		<PackageReference Include="XrmFramework.WebresourcesAnalyzers" Version="2.2.99-g42f4a02029" />
 	</ItemGroup>
 
 	<ItemGroup>

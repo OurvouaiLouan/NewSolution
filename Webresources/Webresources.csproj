@@ -1,5 +1,12 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
+
+
+	<ItemGroup>
+		<PackageReference Include="XrmFramework.Analyzers" Version="$(NuGetPackageVersion)" />
+		<PackageReference Include="XrmFramework.WebresourcesAnalyzers" Version="2.2.99-g42f4a02029" />
+	</ItemGroup>
+
 	<PropertyGroup>
 		<TargetFramework>net6.0</TargetFramework>
 		<Nullable>enable</Nullable>
@@ -7,19 +14,6 @@
 		<LangVersion>preview</LangVersion>
 	</PropertyGroup>
 	
-	<PropertyGroup>
-		<EmitCompilerGeneratedFiles>true</EmitCompilerGeneratedFiles>
-		<CompilerGeneratedFilesOutputPath>GeneratedJson</CompilerGeneratedFilesOutputPath>
-	</PropertyGroup>
-
-
-	<ItemGroup>
-		<PackageReference Include="XrmFramework.Analyzers" 
-						  Version="$(NuGetPackageVersion)" />
-		<PackageReference Include="XrmFramework.WebresourcesAnalyzers" 
-						  Version="$(NuGetPackageVersion)" />
-	</ItemGroup>
-
 	<ItemGroup>
 		<None Remove="..\NewSolution.Core\**\*.table" />
 		<AdditionalFiles Include="..\NewSolution.Core\**\*.table" Exclude="bin/**;obj/**" />
