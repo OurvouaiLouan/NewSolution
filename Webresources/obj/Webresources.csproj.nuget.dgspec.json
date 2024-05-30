@@ -64,7 +64,7 @@
             },
             "XrmFramework.WebresourcesAnalyzers": {
               "target": "Package",
-              "version": "[2.2.99-g42f4a02029, )"
+              "version": "[2.2.101-g4f31691d5c, )"
             }
           },
           "imports": [
