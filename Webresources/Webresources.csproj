@@ -4,7 +4,7 @@
 
 	<ItemGroup>
 		<PackageReference Include="XrmFramework.Analyzers" Version="$(NuGetPackageVersion)" />
-		<PackageReference Include="XrmFramework.WebresourcesAnalyzers" Version="2.2.101-g4f31691d5c" />
+	<PackageReference Include="XrmFramework.WebresourcesAnalyzers" Version="2.2.101-g4f31691d5c" />
 	</ItemGroup>
 
 	<PropertyGroup>
