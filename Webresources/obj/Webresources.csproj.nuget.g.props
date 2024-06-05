@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">False</RestoreSuccess>
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
@@ -11,5 +11,23 @@
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\l.ourvouai\.nuget\packages\" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(Language)' == 'C#' AND '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Compile Include="$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.102-g506771b360\contentFiles\cs\any\obj\XrmFramework.Analyzers.dll" Condition="Exists('$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.102-g506771b360\contentFiles\cs\any\obj\XrmFramework.Analyzers.dll')">
+      <NuGetPackageId>XrmFramework.WebresourcesAnalyzers</NuGetPackageId>
+      <NuGetPackageVersion>2.2.102-g506771b360</NuGetPackageVersion>
+      <NuGetItemType>Compile</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>obj\XrmFramework.Analyzers.dll</Link>
+    </Compile>
+    <Compile Include="$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.102-g506771b360\contentFiles\cs\any\obj\XrmFramework.WebresourcesAnalyzers.csproj" Condition="Exists('$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.102-g506771b360\contentFiles\cs\any\obj\XrmFramework.WebresourcesAnalyzers.csproj')">
+      <NuGetPackageId>XrmFramework.WebresourcesAnalyzers</NuGetPackageId>
+      <NuGetPackageVersion>2.2.102-g506771b360</NuGetPackageVersion>
+      <NuGetItemType>Compile</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>obj\XrmFramework.WebresourcesAnalyzers.csproj</Link>
+    </Compile>
   </ItemGroup>
 </Project>
