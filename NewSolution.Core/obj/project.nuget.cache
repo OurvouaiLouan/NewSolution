@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IvsHOKzJPIFEWWfRON+WDDqer9mdDezJy8S4p2KMRGX3mhtNiclF7gIP9kaalrUyfDqArA4vagrpfJYz++M4RQ==",
+  "dgSpecHash": "YixtwHl694n68UTC1DMvdJVYNS1GANIx9H/30v3ZIELajV7m+VEhMOCGy3n65kwFA0dtZgzVktUlPFu3akWdTQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\NewSolution.Core\\NewSolution.Core.csproj",
   "expectedPackageFiles": [
@@ -128,7 +128,7 @@
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework\\2.2.91-g15c4fb8559\\xrmframework.2.2.91-g15c4fb8559.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.2.91-g15c4fb8559\\xrmframework.analyzers.2.2.91-g15c4fb8559.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.coreproject\\2.2.91-g15c4fb8559\\xrmframework.coreproject.2.2.91-g15c4fb8559.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.webresourcesanalyzers\\2.2.102-g506771b360\\xrmframework.webresourcesanalyzers.2.2.102-g506771b360.nupkg.sha512"
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.webresourcesanalyzers\\2.2.104-g817b4c1b29\\xrmframework.webresourcesanalyzers.2.2.104-g817b4c1b29.nupkg.sha512"
   ],
   "logs": [
     {

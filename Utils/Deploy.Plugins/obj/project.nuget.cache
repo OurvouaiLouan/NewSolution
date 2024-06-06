@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ol18xXxT0m6cG8uEfU3L0w266uEYZgbthshhDo5/5eEzTntCHfCtrVb+3HFi5yfP5jFlb5ltyAiPDwJNs6z0xg==",
+  "dgSpecHash": "GShu+GMrPNN/2GShKx/OnLNCzsahCj9Qlu7jBaDpdjM46CGfqB7o56hfZ7EzPrbq3P1Bd7i6PNN453tzVCiEog==",
   "success": true,
   "projectFilePath": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Utils\\Deploy.Plugins\\Deploy.Plugins.csproj",
   "expectedPackageFiles": [
@@ -35,10 +35,10 @@
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework\\2.2.102-g506771b360\\xrmframework.2.2.102-g506771b360.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.2.102-g506771b360\\xrmframework.analyzers.2.2.102-g506771b360.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.deployutils\\2.2.102-g506771b360\\xrmframework.deployutils.2.2.102-g506771b360.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.plugin\\2.2.102-g506771b360\\xrmframework.plugin.2.2.102-g506771b360.nupkg.sha512"
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework\\2.2.104-g817b4c1b29\\xrmframework.2.2.104-g817b4c1b29.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.2.104-g817b4c1b29\\xrmframework.analyzers.2.2.104-g817b4c1b29.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.deployutils\\2.2.104-g817b4c1b29\\xrmframework.deployutils.2.2.104-g817b4c1b29.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.plugin\\2.2.104-g817b4c1b29\\xrmframework.plugin.2.2.104-g817b4c1b29.nupkg.sha512"
   ],
   "logs": []
 }

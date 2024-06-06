@@ -5,7 +5,7 @@
     <AssemblyOriginatorKeyFile>$(RootFolder)/NewSolution.snk</AssemblyOriginatorKeyFile>
 
     <LangVersion>latest</LangVersion>
-	<NuGetPackageVersion>2.2.102-g506771b360</NuGetPackageVersion>
+	<NuGetPackageVersion>2.2.104-g817b4c1b29</NuGetPackageVersion>
 
     <XrmFrameworkCoreProjectName>NewSolution.Core</XrmFrameworkCoreProjectName>
   </PropertyGroup>
