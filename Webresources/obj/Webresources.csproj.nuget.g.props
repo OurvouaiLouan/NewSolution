@@ -13,77 +13,21 @@
     <SourceRoot Include="C:\Users\l.ourvouai\.nuget\packages\" />
   </ItemGroup>
   <ItemGroup Condition=" '$(Language)' == 'C#' AND '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Compile Include="$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.104-g817b4c1b29\contentFiles\cs\any\obj\Definition\Account.table" Condition="Exists('$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.104-g817b4c1b29\contentFiles\cs\any\obj\Definition\Account.table')">
+    <Compile Include="$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.105-g3bf9d242bd\contentFiles\cs\any\obj\XrmFramework.Analyzers.dll" Condition="Exists('$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.105-g3bf9d242bd\contentFiles\cs\any\obj\XrmFramework.Analyzers.dll')">
       <NuGetPackageId>XrmFramework.WebresourcesAnalyzers</NuGetPackageId>
-      <NuGetPackageVersion>2.2.104-g817b4c1b29</NuGetPackageVersion>
-      <NuGetItemType>Compile</NuGetItemType>
-      <Pack>false</Pack>
-      <Private>False</Private>
-      <Link>obj\Definition\Account.table</Link>
-    </Compile>
-    <Compile Include="$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.104-g817b4c1b29\contentFiles\cs\any\obj\Definition\Contratdelocation.table" Condition="Exists('$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.104-g817b4c1b29\contentFiles\cs\any\obj\Definition\Contratdelocation.table')">
-      <NuGetPackageId>XrmFramework.WebresourcesAnalyzers</NuGetPackageId>
-      <NuGetPackageVersion>2.2.104-g817b4c1b29</NuGetPackageVersion>
-      <NuGetItemType>Compile</NuGetItemType>
-      <Pack>false</Pack>
-      <Private>False</Private>
-      <Link>obj\Definition\Contratdelocation.table</Link>
-    </Compile>
-    <Compile Include="$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.104-g817b4c1b29\contentFiles\cs\any\obj\Definition\OptionSet.table" Condition="Exists('$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.104-g817b4c1b29\contentFiles\cs\any\obj\Definition\OptionSet.table')">
-      <NuGetPackageId>XrmFramework.WebresourcesAnalyzers</NuGetPackageId>
-      <NuGetPackageVersion>2.2.104-g817b4c1b29</NuGetPackageVersion>
-      <NuGetItemType>Compile</NuGetItemType>
-      <Pack>false</Pack>
-      <Private>False</Private>
-      <Link>obj\Definition\OptionSet.table</Link>
-    </Compile>
-    <Compile Include="$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.104-g817b4c1b29\contentFiles\cs\any\obj\Definition\Particulier.table" Condition="Exists('$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.104-g817b4c1b29\contentFiles\cs\any\obj\Definition\Particulier.table')">
-      <NuGetPackageId>XrmFramework.WebresourcesAnalyzers</NuGetPackageId>
-      <NuGetPackageVersion>2.2.104-g817b4c1b29</NuGetPackageVersion>
-      <NuGetItemType>Compile</NuGetItemType>
-      <Pack>false</Pack>
-      <Private>False</Private>
-      <Link>obj\Definition\Particulier.table</Link>
-    </Compile>
-    <Compile Include="$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.104-g817b4c1b29\contentFiles\cs\any\obj\Definition\PostBuildTask.cs" Condition="Exists('$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.104-g817b4c1b29\contentFiles\cs\any\obj\Definition\PostBuildTask.cs')">
-      <NuGetPackageId>XrmFramework.WebresourcesAnalyzers</NuGetPackageId>
-      <NuGetPackageVersion>2.2.104-g817b4c1b29</NuGetPackageVersion>
-      <NuGetItemType>Compile</NuGetItemType>
-      <Pack>false</Pack>
-      <Private>False</Private>
-      <Link>obj\Definition\PostBuildTask.cs</Link>
-    </Compile>
-    <Compile Include="$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.104-g817b4c1b29\contentFiles\cs\any\obj\Definition\SansColSansEnum.table" Condition="Exists('$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.104-g817b4c1b29\contentFiles\cs\any\obj\Definition\SansColSansEnum.table')">
-      <NuGetPackageId>XrmFramework.WebresourcesAnalyzers</NuGetPackageId>
-      <NuGetPackageVersion>2.2.104-g817b4c1b29</NuGetPackageVersion>
-      <NuGetItemType>Compile</NuGetItemType>
-      <Pack>false</Pack>
-      <Private>False</Private>
-      <Link>obj\Definition\SansColSansEnum.table</Link>
-    </Compile>
-    <Compile Include="$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.104-g817b4c1b29\contentFiles\cs\any\obj\Definition\SansEnum.table" Condition="Exists('$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.104-g817b4c1b29\contentFiles\cs\any\obj\Definition\SansEnum.table')">
-      <NuGetPackageId>XrmFramework.WebresourcesAnalyzers</NuGetPackageId>
-      <NuGetPackageVersion>2.2.104-g817b4c1b29</NuGetPackageVersion>
-      <NuGetItemType>Compile</NuGetItemType>
-      <Pack>false</Pack>
-      <Private>False</Private>
-      <Link>obj\Definition\SansEnum.table</Link>
-    </Compile>
-    <Compile Include="$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.104-g817b4c1b29\contentFiles\cs\any\obj\Definition\TableJsonDefinitionGenerator.cs" Condition="Exists('$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.104-g817b4c1b29\contentFiles\cs\any\obj\Definition\TableJsonDefinitionGenerator.cs')">
-      <NuGetPackageId>XrmFramework.WebresourcesAnalyzers</NuGetPackageId>
-      <NuGetPackageVersion>2.2.104-g817b4c1b29</NuGetPackageVersion>
-      <NuGetItemType>Compile</NuGetItemType>
-      <Pack>false</Pack>
-      <Private>False</Private>
-      <Link>obj\Definition\TableJsonDefinitionGenerator.cs</Link>
-    </Compile>
-    <Compile Include="$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.104-g817b4c1b29\contentFiles\cs\any\obj\XrmFramework.Analyzers.dll" Condition="Exists('$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.104-g817b4c1b29\contentFiles\cs\any\obj\XrmFramework.Analyzers.dll')">
-      <NuGetPackageId>XrmFramework.WebresourcesAnalyzers</NuGetPackageId>
-      <NuGetPackageVersion>2.2.104-g817b4c1b29</NuGetPackageVersion>
+      <NuGetPackageVersion>2.2.105-g3bf9d242bd</NuGetPackageVersion>
       <NuGetItemType>Compile</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>
       <Link>obj\XrmFramework.Analyzers.dll</Link>
+    </Compile>
+    <Compile Include="$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.105-g3bf9d242bd\contentFiles\cs\any\obj\XrmFramework.WebresourcesAnalyzers.dll" Condition="Exists('$(NuGetPackageRoot)xrmframework.webresourcesanalyzers\2.2.105-g3bf9d242bd\contentFiles\cs\any\obj\XrmFramework.WebresourcesAnalyzers.dll')">
+      <NuGetPackageId>XrmFramework.WebresourcesAnalyzers</NuGetPackageId>
+      <NuGetPackageVersion>2.2.105-g3bf9d242bd</NuGetPackageVersion>
+      <NuGetItemType>Compile</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>obj\XrmFramework.WebresourcesAnalyzers.dll</Link>
     </Compile>
   </ItemGroup>
 </Project>

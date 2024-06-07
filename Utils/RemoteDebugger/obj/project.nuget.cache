@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "q15mzRrNV63aI+PlI/N6V+KIlefgIU4MFyfeP8i4aJPPyC/xTAX1iFaORHDHLt5pIlES91DlsJs2rUSgfRr+wg==",
+  "dgSpecHash": "2Z8GtzbezEG2tBDcGf4hRqcw7dlLqvX8n7bE/pUr5YWZWAGygv6ZELHcUPFjzHf/tlRKZFhqxj0FpKKq1KGbtQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\l.ourvouai\\source\\repos\\NewSolution\\Utils\\RemoteDebugger\\RemoteDebugger.csproj",
   "expectedPackageFiles": [
@@ -40,10 +40,10 @@
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\l.ourvouai\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework\\2.2.104-g817b4c1b29\\xrmframework.2.2.104-g817b4c1b29.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.2.104-g817b4c1b29\\xrmframework.analyzers.2.2.104-g817b4c1b29.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.plugin\\2.2.104-g817b4c1b29\\xrmframework.plugin.2.2.104-g817b4c1b29.nupkg.sha512",
-    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.remotedebugger.client\\2.2.104-g817b4c1b29\\xrmframework.remotedebugger.client.2.2.104-g817b4c1b29.nupkg.sha512"
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework\\2.2.105-g3bf9d242bd\\xrmframework.2.2.105-g3bf9d242bd.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.analyzers\\2.2.105-g3bf9d242bd\\xrmframework.analyzers.2.2.105-g3bf9d242bd.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.plugin\\2.2.105-g3bf9d242bd\\xrmframework.plugin.2.2.105-g3bf9d242bd.nupkg.sha512",
+    "C:\\Users\\l.ourvouai\\.nuget\\packages\\xrmframework.remotedebugger.client\\2.2.105-g3bf9d242bd\\xrmframework.remotedebugger.client.2.2.105-g3bf9d242bd.nupkg.sha512"
   ],
   "logs": []
 }

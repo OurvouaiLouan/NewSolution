@@ -2344,50 +2344,15 @@
           "build/netcoreapp3.1/XrmFramework.CoreProject.targets": {}
         }
       },
-      "XrmFramework.WebresourcesAnalyzers/2.2.104-g817b4c1b29": {
+      "XrmFramework.WebresourcesAnalyzers/2.2.105-g3bf9d242bd": {
         "type": "package",
         "contentFiles": {
-          "contentFiles/cs/any/obj/Definition/Account.table": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/any/obj/Definition/Contratdelocation.table": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/any/obj/Definition/OptionSet.table": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/any/obj/Definition/Particulier.table": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/any/obj/Definition/PostBuildTask.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/any/obj/Definition/SansColSansEnum.table": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/any/obj/Definition/SansEnum.table": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/any/obj/Definition/TableJsonDefinitionGenerator.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
           "contentFiles/cs/any/obj/XrmFramework.Analyzers.dll": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false
+          },
+          "contentFiles/cs/any/obj/XrmFramework.WebresourcesAnalyzers.dll": {
             "buildAction": "Compile",
             "codeLanguage": "cs",
             "copyToOutput": false
@@ -3665,50 +3630,15 @@
           "build/net462/XrmFramework.CoreProject.targets": {}
         }
       },
-      "XrmFramework.WebresourcesAnalyzers/2.2.104-g817b4c1b29": {
+      "XrmFramework.WebresourcesAnalyzers/2.2.105-g3bf9d242bd": {
         "type": "package",
         "contentFiles": {
-          "contentFiles/cs/any/obj/Definition/Account.table": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/any/obj/Definition/Contratdelocation.table": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/any/obj/Definition/OptionSet.table": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/any/obj/Definition/Particulier.table": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/any/obj/Definition/PostBuildTask.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/any/obj/Definition/SansColSansEnum.table": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/any/obj/Definition/SansEnum.table": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/any/obj/Definition/TableJsonDefinitionGenerator.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
           "contentFiles/cs/any/obj/XrmFramework.Analyzers.dll": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false
+          },
+          "contentFiles/cs/any/obj/XrmFramework.WebresourcesAnalyzers.dll": {
             "buildAction": "Compile",
             "codeLanguage": "cs",
             "copyToOutput": false
@@ -9297,10 +9227,10 @@
         "xrmframework.coreproject.nuspec"
       ]
     },
-    "XrmFramework.WebresourcesAnalyzers/2.2.104-g817b4c1b29": {
-      "sha512": "FdJj1tpkT9obWMOFnxpO0DPDpG/rOYjJwxZslX4lqN1gDHn1voXvLNeTx70Xw6VAxHVJcf1DogzFBUMlhPgDgg==",
+    "XrmFramework.WebresourcesAnalyzers/2.2.105-g3bf9d242bd": {
+      "sha512": "WJUtd3h8G3iOnS5ZerE3k65jSgl5foFMYQ1YZCRQrt/Izl3Hazxyn+VFTbDoEjJHIFB7bggzY9DESYKzw+HbMw==",
       "type": "package",
-      "path": "xrmframework.webresourcesanalyzers/2.2.104-g817b4c1b29",
+      "path": "xrmframework.webresourcesanalyzers/2.2.105-g3bf9d242bd",
       "files": [
         ".nupkg.metadata",
         "analyzers/dotnet/cs/XrmFramework.Analyzers.dll",
@@ -9308,16 +9238,9 @@
         "analyzers/dotnet/cs/XrmFramework.WebresourcesAnalyzers.deps.json",
         "analyzers/dotnet/cs/XrmFramework.WebresourcesAnalyzers.dll",
         "analyzers/dotnet/cs/XrmFramework.WebresourcesAnalyzers.pdb",
-        "contentFiles/cs/any/obj/Definition/Account.table",
-        "contentFiles/cs/any/obj/Definition/Contratdelocation.table",
-        "contentFiles/cs/any/obj/Definition/OptionSet.table",
-        "contentFiles/cs/any/obj/Definition/Particulier.table",
-        "contentFiles/cs/any/obj/Definition/PostBuildTask.cs",
-        "contentFiles/cs/any/obj/Definition/SansColSansEnum.table",
-        "contentFiles/cs/any/obj/Definition/SansEnum.table",
-        "contentFiles/cs/any/obj/Definition/TableJsonDefinitionGenerator.cs",
         "contentFiles/cs/any/obj/XrmFramework.Analyzers.dll",
-        "xrmframework.webresourcesanalyzers.2.2.104-g817b4c1b29.nupkg.sha512",
+        "contentFiles/cs/any/obj/XrmFramework.WebresourcesAnalyzers.dll",
+        "xrmframework.webresourcesanalyzers.2.2.105-g3bf9d242bd.nupkg.sha512",
         "xrmframework.webresourcesanalyzers.nuspec"
       ]
     }
@@ -9330,7 +9253,7 @@
       "XrmFramework >= 2.2.91-g15c4fb8559",
       "XrmFramework.Analyzers >= 2.2.91-g15c4fb8559",
       "XrmFramework.CoreProject >= 2.2.91-g15c4fb8559",
-      "XrmFramework.WebresourcesAnalyzers >= 2.2.104-g817b4c1b29"
+      "XrmFramework.WebresourcesAnalyzers >= 2.2.105-g3bf9d242bd"
     ],
     ".NETFramework,Version=v4.6.2": [
       "Microsoft.NETFramework.ReferenceAssemblies >= 1.0.2",
@@ -9339,7 +9262,7 @@
       "XrmFramework >= 2.2.91-g15c4fb8559",
       "XrmFramework.Analyzers >= 2.2.91-g15c4fb8559",
       "XrmFramework.CoreProject >= 2.2.91-g15c4fb8559",
-      "XrmFramework.WebresourcesAnalyzers >= 2.2.104-g817b4c1b29"
+      "XrmFramework.WebresourcesAnalyzers >= 2.2.105-g3bf9d242bd"
     ]
   },
   "packageFolders": {
@@ -9423,7 +9346,7 @@
           },
           "XrmFramework.WebresourcesAnalyzers": {
             "target": "Package",
-            "version": "[2.2.104-g817b4c1b29, )"
+            "version": "[2.2.105-g3bf9d242bd, )"
           }
         },
         "imports": [
@@ -9476,7 +9399,7 @@
           },
           "XrmFramework.WebresourcesAnalyzers": {
             "target": "Package",
-            "version": "[2.2.104-g817b4c1b29, )"
+            "version": "[2.2.105-g3bf9d242bd, )"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"

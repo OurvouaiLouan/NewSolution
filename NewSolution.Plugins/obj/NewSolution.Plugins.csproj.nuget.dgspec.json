@@ -60,15 +60,15 @@
             },
             "XrmFramework": {
               "target": "Package",
-              "version": "[2.2.104-g817b4c1b29, )"
+              "version": "[2.2.105-g3bf9d242bd, )"
             },
             "XrmFramework.Analyzers": {
               "target": "Package",
-              "version": "[2.2.104-g817b4c1b29, )"
+              "version": "[2.2.105-g3bf9d242bd, )"
             },
             "XrmFramework.Plugin": {
               "target": "Package",
-              "version": "[2.2.104-g817b4c1b29, )"
+              "version": "[2.2.105-g3bf9d242bd, )"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"

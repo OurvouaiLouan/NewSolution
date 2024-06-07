@@ -13,6 +13,6 @@
     <SourceRoot Include="C:\Users\l.ourvouai\.nuget\packages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)xrmframework.remotedebugger.client\2.2.104-g817b4c1b29\build\net462\XrmFramework.RemoteDebugger.Client.props" Condition="Exists('$(NuGetPackageRoot)xrmframework.remotedebugger.client\2.2.104-g817b4c1b29\build\net462\XrmFramework.RemoteDebugger.Client.props')" />
+    <Import Project="$(NuGetPackageRoot)xrmframework.remotedebugger.client\2.2.105-g3bf9d242bd\build\net462\XrmFramework.RemoteDebugger.Client.props" Condition="Exists('$(NuGetPackageRoot)xrmframework.remotedebugger.client\2.2.105-g3bf9d242bd\build\net462\XrmFramework.RemoteDebugger.Client.props')" />
   </ImportGroup>
 </Project>
